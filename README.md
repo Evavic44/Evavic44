@@ -6,9 +6,9 @@
 
 ```
 Places you can find me:
-- [Twitter](https://twitter.com/evavic44)
-- [Linkedin](https://www.linkedin.com/in/victor-eke-2722711a4/)
-- [Twitter](https://twitter.com/evavic44)
+[Twitter](https://twitter.com/evavic44)
+[Linkedin](https://www.linkedin.com/in/victor-eke-2722711a4/)
+[Twitter](https://twitter.com/evavic44)
 ```
 
 ##### Projects
