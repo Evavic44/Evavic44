@@ -19,8 +19,9 @@ Places you can find me:
 
 ##### Progress Checklist
 - [x] Learn HTML
-- [x] Not completely sucking at CSS
+- [x] Not completely suck at CSS
 - [x] Fairly comfortable with CSS
 - [ ] Learn J:a:vascript 
 - [ ] Try out React
-*This tasklist will be updated soon....*
+
+- *This tasklist will be updated soon....*
