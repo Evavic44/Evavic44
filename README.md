@@ -1,14 +1,16 @@
 ### Hello, People! :octocat:
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/5brOm0QM56xWUpaqDz" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/animation-jobjorisenmarieke-job-joris-marieke-5brOm0QM56xWUpaqDz"></a></p>
+<a href="https://giphy.com/gifs/animation-jobjorisenmarieke-job-joris-marieke-5brOm0QM56xWUpaqDz"></a>
+
+![Welcome](welcome.gif?raw=true "Title")
 
 #### Welcome to the Github repo of Eke Victor :star:
 #### A self-taught Frontend web developer proficient in HTML and CSS. Currently learning J:a:vascript to build more exciting and wonderful projects.
 
 ```
 Places you can find me:
-[Twitter](https://twitter.com/evavic44)
-[Linkedin](https://www.linkedin.com/in/victor-eke-2722711a4/)
-[Twitter](https://twitter.com/evavic44)
+[Twitter](https://twitter.com/evavic44).
+[Linkedin](https://www.linkedin.com/in/victor-eke-2722711a4/).
+[Twitter](https://twitter.com/evavic44).
 ```
 
 ##### Projects
