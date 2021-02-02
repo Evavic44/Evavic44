@@ -6,12 +6,11 @@
 #### Welcome to the Github repo of Eke Victor :star:
 #### A self-taught Frontend web developer proficient in HTML and CSS. Currently learning J:a:vascript to build more exciting and wonderful projects.
 
-```
+
 Places you can find me:
 [Twitter](https://twitter.com/evavic44).
 [Linkedin](https://www.linkedin.com/in/victor-eke-2722711a4/).
 [Twitter](https://twitter.com/evavic44).
-```
 
 ##### Projects
 - [Hotel Website](https://kind-jones-1d0c7b.netlify.app/)
