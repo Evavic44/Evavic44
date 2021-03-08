@@ -8,7 +8,7 @@
 
 
 > ### Contact:
----
+
 <p align="left"> <a href="https://twitter.com/evavic44" target="_blank"><img src="https://img.shields.io/twitter/follow/evavic44?logo=twitter&style=for-the-badge" alt="evavic44" /></a> </p>
 <p align="left">
 <a href="https://twitter.com/evavic44" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="evavic44" height="30" width="30" /></a>
@@ -19,7 +19,7 @@
 
 <!-- Languages & Tools I use-->
 > ### Languages and Tools:
----
+
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evavic44&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="evavic44" /></p>
@@ -28,14 +28,14 @@
 
 
 > ### Projects
----
+
 [Hotel Website](https://kind-jones-1d0c7b.netlify.app/)
 
 ##### Built this Local Japanese Hotel website using HTML & CSS from scratch. Inspiration from @bradtraversy HTML & Css Udemy Course
 
 
 > ### Progress Checklist
----
+
 - [x] Learn HTML
 - [x] Not completely suck at CSS
 - [x] Fairly comfortable with CSS
