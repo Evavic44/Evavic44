@@ -29,12 +29,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evavic44&show_icons=true&theme=tokyonight&locale=en" alt="evavic44" /></p>
 
 
-> ### Projects
-
+> ### Side Projects
 [Hotel Website](https://kind-jones-1d0c7b.netlify.app/)
+<p>Built this Local Japanese Hotel website using HTML & CSS from scratch. Inspiration from @bradtraversy HTML & Css Udemy Course</p>
 
-##### Built this Local Japanese Hotel website using HTML & CSS from scratch. Inspiration from @bradtraversy HTML & Css Udemy Course
 
+[Presentation Slide](https://thewalkingdead-slide.netlify.app)
+<p>An Illustrational Story with slide images of The Walking Dead: The Telltale Definitive Series Pc game written by Robert Kirkman.</p>
 
 > ### Progress Checklist
 
