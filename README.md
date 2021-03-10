@@ -10,12 +10,7 @@
 > ### Contact:
 
 <p align="left"> <a href="https://twitter.com/evavic44" target="_blank"><img src="https://img.shields.io/twitter/follow/evavic44?logo=twitter&style=for-the-badge" alt="evavic44" /></a> </p>
-<p align="left">
-<a href="https://twitter.com/evavic44" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="evavic44" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/victor-eke-2722711a4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/victor-eke-2722711a4/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14021166/eke?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/14021166/eke?tab=profile" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/evavic44" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/evavic44" height="30" width="40" /></a>
-</p>
+
 
 <!-- Languages & Tools I use-->
 > ### Languages and Tools:
@@ -27,15 +22,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evavic44&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="evavic44" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evavic44&show_icons=true&theme=tokyonight&locale=en" alt="evavic44" /></p>
-
-
-> ### Side Projects
-[Hotel Website](https://kind-jones-1d0c7b.netlify.app/)
-<p>Built this Local Japanese Hotel website using HTML & CSS from scratch. Inspiration from @bradtraversy HTML & Css Udemy Course</p>
-
-
-[Presentation Slide](https://thewalkingdead-slide.netlify.app)
-<p>An Illustrational Story with slide images of The Walking Dead: The Telltale Definitive Series Pc game written by Robert Kirkman.</p>
 
 > ### Progress Checklist
 
