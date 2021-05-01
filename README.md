@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=039383&size=25&center=true&width=800&height=20&lines=Frontend+Web+Developer+;Open+Source+%F0%9F%9F%A9)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## Hello, People! :octocat:
 ### I'm Eke Victor. :star:
 ![Welcome](welcome.gif?raw=true "Welcome")
