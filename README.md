@@ -14,9 +14,6 @@
 
 #### `Contact`
 <p align="center">
-  <a href="https://github.com/evavic44?tab=followers">
-    <img src="https://img.shields.io/github/followers/evavic44?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
   <a href="http://twitter.com/evavic44">
     <img src="https://img.shields.io/twitter/follow/evavic44?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
