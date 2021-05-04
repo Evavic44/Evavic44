@@ -1,16 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=10AEA6&size=23&center=true&vCenter=true&width=1000&height=20&lines=Frontend+Web+Developer;Open+Source+)](https://git.io/typing-svg)
 
-<h3 align="center">Hi, I'm Eke Victor ⭐</h3>
-<img src="https://user-images.githubusercontent.com/62628408/116943768-2315aa80-ac6c-11eb-86ff-606147a5b939.gif" align="right" width="400px">
+<h3 align="left">Hi, I'm Eke Victor ⭐</h3>
+<hr>
+<img src="https://user-images.githubusercontent.com/62628408/116943768-2315aa80-ac6c-11eb-86ff-606147a5b939.gif" align="right" width="300px">
+
 
 <h3 align="center">About Me</h3>
 <p align="center">
-  A Frontend web developer from Nigeria proficient in HTML and CSS. Currently learning J:a:vascript to build more exciting and wonderful projects.
+  A Frontend web developer proficient in HTML and CSS. Currently learning J:a:vascript to build more exciting and wonderful projects.
   I spend half of my day working on Open Source Projects, it's the most fun thing ever. I Absolutely love the community of developers, love to collaborate with others and build exciting projects. Love to learn and watch YouTube 'A day in the life' videos 😆
 </p>
 <hr>
 
-<h3 align="center">Contact<h3/>
+#### `Contact`
 <p align="center">
   <a href="https://github.com/evavic44?tab=followers">
     <img src="https://img.shields.io/github/followers/evavic44?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
@@ -27,7 +29,7 @@
 </p>
 <hr>
 
-<h3 align="center">Languages and Tools<h3>
+#### `Languages and Tools`
 <p align="center"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -39,13 +41,12 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Vs_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evavic44&show_icons=true&theme=tokyonight&locale=en" alt="evavic44" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=evavic44&show_icons=true&theme=tokyonight&locale=en" alt="evavic44" width="400px"/>
 
 <!-- Roadmap Progress Section -->
 #### `Progress Checklist`
