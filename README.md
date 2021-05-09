@@ -59,8 +59,9 @@
 - [x] Master Git & GitHub
 - [x] Build Personal Projects
 - [ ] Start an Open Source Project
-- [ ] Start a Youtube Channel
-- [ ] Master a Frontend Framework
+- [ ] Finish Udemy Course
+- [ ] Build a Portfolio Website 
+- [ ] Start learning A Frontend Framework
 - [ ] Learn Javascript 
 - [ ] React, React, React
 
