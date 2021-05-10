@@ -58,7 +58,7 @@
 - [x] Fairly comfortable with CSS
 - [x] Master Git & GitHub
 - [x] Build Personal Projects
-- [ ] Start an Open Source Project
+- [x] Start an Open Source Project
 - [ ] Finish Udemy Course
 - [ ] Build a Portfolio Website 
 - [ ] Start learning A Frontend Framework
