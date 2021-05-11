@@ -4,7 +4,7 @@
 <h3 align="center">About Me</h3>
 <p align="center">
   A Frontend Web Developer proficient in HTML and CSS. Currently learning J:a:vascript to build more exciting and wonderful projects.
-  I spend half of my day working on Open Source Projects, it's the most fun thing ever. I Absolutely love the community of developers, love to collaborate with others and build exciting projects. Love to learn and watch YouTube 'A day in the life' videos 😆 Moderator at <a href="https://github.com/chryz-hub">Chryz-Hub ⭐</a>
+  I spend half of my day working on Open Source Projects, it's the most fun thing ever. I Absolutely love the community of developers, love to collaborate with others and build exciting projects. Moderator at <a href="https://github.com/chryz-hub">Chryz-Hub</a>⭐
 </p>
 <hr>
 
