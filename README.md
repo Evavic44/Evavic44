@@ -52,17 +52,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=evavic44&show_icons=true&theme=tokyonight&locale=en" alt="evavic44" width="400px"/>
 
 <!-- Roadmap Progress Section -->
-#### `Progress Checklist`
-- [x] Learn HTML
-- [x] Not completely suck at CSS
-- [x] Fairly comfortable with CSS
-- [x] Master Git & GitHub
-- [x] Build Personal Projects
-- [x] Start an Open Source Project
-- [ ] Finish Udemy Course
-- [ ] Build a Portfolio Website 
-- [ ] Start learning A Frontend Framework
-- [ ] Learn Javascript 
-- [ ] React, React, React
-
-*This tasklist will be updated soon....*
