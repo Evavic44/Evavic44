@@ -49,6 +49,4 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=evavic44&show_icons=true&theme=tokyonight&locale=en" alt="evavic44" width="400px"/>
-
 <!-- Roadmap Progress Section -->
