@@ -1,9 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=10AEA6&size=23&center=true&vCenter=true&width=1000&height=20&lines=Frontend+Web+Developer;Open+Source+)](https://git.io/typing-svg)
-
-<h3 align="left">Hi, I'm Eke Victor ⭐</h3>
+<img src="https://user-images.githubusercontent.com/62628408/120402844-f7551580-c33a-11eb-99c9-8d436c866eb1.png" align="center">
 <hr>
-<img src="https://user-images.githubusercontent.com/62628408/116943768-2315aa80-ac6c-11eb-86ff-606147a5b939.gif" align="right" width="300px">
-
 
 <h3 align="center">About Me</h3>
 <p align="center">
