@@ -36,11 +36,9 @@
 
 <br><hr>
 <!-- Roadmap Progress Section -->
-#### `Frontend Mentor Challenges Completed`
+#### `Tutorials`
 <table>
 <tr>
-<td align="center"><a href="https://github.com/Evavic44/testimonial-grid-section"><img src="https://user-images.githubusercontent.com/62628408/124602733-1165a480-de61-11eb-850b-2ce8d647792e.png" width="150px" height="100"><br><sub><b>Testimonial Grid</b></sub></a> <br/> <img src="https://img.shields.io/twitter/url?color=hsl%2878%2C65%25%2C55%25%29&label=Junior&logo=frontendmentor&logoColor=white&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fevavic44" width="100px"><br></td>
-  
-<td align="center"><a href="https://github.com/Evavic44/Stats-Preview-Card-Frontendmentor"><img src="https://user-images.githubusercontent.com/62628408/124610691-a1f3b300-de68-11eb-9620-58f6f39329b0.png" width="150px" height="100"><br><sub><b>Stats Preview Card</b></sub></a> <br/> <img src="https://img.shields.io/twitter/url?color=14C2C8&label=Newbie&logo=frontendmentor&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FEvavic44" width="100px"><br></td>
+<td align="center"><a href="https://github.com/Evavic44/learn-css"><img src="https://user-images.githubusercontent.com/62628408/128299816-44a6aa57-3253-42f9-96a5-7f3aba9cf0dc.png" width="170px" height="100"><br><sub><b>Learn CSS</b></sub></a></td>
 </tr>
 </table>
