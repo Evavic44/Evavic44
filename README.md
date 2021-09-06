@@ -8,12 +8,16 @@
 <h3 align="left">About Me</h3>
 <p align="left">
   A Frontend Web Developer proficient in HTML and CSS. Currently learning J:a:vascript to build more exciting and wonderful projects.
-  I spend half of my day working on Open Source Projects, it's the most fun thing ever. I Absolutely love the community of developers, love to collaborate with others and build exciting projects. Moderator at <a href="https://github.com/chryz-hub">Chryz-Hub</a>⭐
+  I spend half of my day working on Open Source Projects, it's the most fun thing ever. I Absolutely love the community of developers, love to collaborate with others and build exciting projects. <br/> 
+  <li>Currently an Intern at <a href="https://internship.zuri.team/">HNG</a></li>
+
+ 
+
 </p>
 <hr>
 
 #### Contact
-<p align="center">
+<p align="left">
   <a href="http://twitter.com/evavic44">
     <img src="https://img.shields.io/twitter/follow/evavic44?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
@@ -33,7 +37,7 @@
 <hr>
 
 #### Languages and Tools
-<p align="center"> 
+<p align="left"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
