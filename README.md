@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=evavic44&style=flat-square&color=7360ff)
 
-<img src="https://user-images.githubusercontent.com/62628408/126924105-5da40943-f7c8-4d4f-9b95-09736bcd875a.png" align="center">
+<img src="https://user-images.githubusercontent.com/62628408/133979919-ae221ed1-6972-476d-b1aa-3b9bdffd53a9.png" align="center">
 <hr>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=tahoma&color=8A6BF6&center=true&width=262&height=30&lines=Frontend+Web+Developer;Open+Source)](https://git.io/typing-svg)
