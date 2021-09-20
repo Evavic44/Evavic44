@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=evavic44&style=flat-square&color=7360ff)
+![Profile Views](https://komarev.com/ghpvc/?username=evavic44&style=flat-square&color=6C5A9C)
 
 <img src="https://user-images.githubusercontent.com/62628408/133979919-ae221ed1-6972-476d-b1aa-3b9bdffd53a9.png" align="center">
 <hr>
