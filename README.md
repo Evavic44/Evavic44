@@ -56,6 +56,6 @@ Currently an Intern at <a href="https://internship.zuri.team/">HNG</a></li>
 #### Tutorials
 <table>
 <tr>
-<td align="center"><a href="https://github.com/Evavic44/learn-css"><img src="https://user-images.githubusercontent.com/62628408/128299816-44a6aa57-3253-42f9-96a5-7f3aba9cf0dc.png" width="170px" height="100"><br><sub><b>Learn CSS</b></sub></a></td>
+<td align="center"><a href="https://github.com/Evavic44/learn-css"><img src="https://user-images.githubusercontent.com/62628408/134408321-b9792c81-cf71-427d-9333-19f7ee57fd29.png" width="170px" height="100"><br><sub><b>Learn CSS</b></sub></a></td>
 </tr>
 </table>
