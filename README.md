@@ -52,6 +52,19 @@ Currently an Intern at <a href="https://internship.zuri.team/">HNG</a></li>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
 <br><hr>
+
+###  Articles
+<a href="https://eke.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+<a href="https://dev.to/eke"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
+
+<a href="https://eke.hashnode.dev/introduction-to-css-grid">Introduction to CSS Grid</a>
+<br/>
+<a href="https://eke.hashnode.dev/how-do-you-learn-best">How do you learn best?</a>
+<br/>
+<a href="https://eke.hashnode.dev/osca-challenge-2021">OSCA Challenge 2021</a>
+
+
+<hr/>
   
 #### Tutorials
 <table>
