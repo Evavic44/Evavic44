@@ -9,7 +9,7 @@
 <p align="left">
   A Frontend Web Developer proficient in HTML and CSS. Currently learning J:a:vascript to build more exciting and wonderful projects.
   I spend half of my day working on Open Source Projects, it's the most fun thing ever. I Absolutely love the community of developers, love to collaborate with others and build exciting projects. <br/> <br/>
-Currently an Intern at <a href="https://internship.zuri.team/">HNG</a></li>
+Technical writer at <a href="https://github.com/Aviyel-oss">Aviyel</a></li>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=evavic44&background=0D1117&ring=422F75&fire=FF4A0A&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&stroke=422F75&border=422F75&dates=422F75&sideLabels=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
 
