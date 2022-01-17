@@ -5,7 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=tahoma&color=8A6BF6&center=true&width=262&height=30&lines=Frontend+Web+Developer;Open+Source)](https://git.io/typing-svg)
 
-<h3 align="left">About Me</h3>
+
+<h3 align="left">About Me</h3><img src="https://user-images.githubusercontent.com/62628408/149836465-b3308125-6da8-40a8-91e6-a1a4afdcd517.gif" width="40px">
 <p align="left">
   A Frontend Web Developer proficient in HTML and CSS. Currently learning J:a:vascript to build more exciting and wonderful projects.
   I spend half of my day working on Open Source Projects, it's the most fun thing ever. I Absolutely love the community of developers, love to collaborate with others and build exciting projects. <br/> <br/>
