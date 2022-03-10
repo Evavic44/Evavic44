@@ -19,6 +19,10 @@ Technical writer at <a href="https://github.com/Aviyel-oss">Aviyel</a></li>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Three Awesome Ways to Install &amp; Set up SASS](https://eke.hashnode.dev/three-awesome-ways-to-install-and-set-up-sass)
+- [I Built Hashnode&#39;s Landing Page Clone With SASS](https://eke.hashnode.dev/i-built-hashnodes-landing-page-clone-with-sass)
+- [Integrating Live Chat to Your WordPress, Shopify or Webflow Site Has Never Been this Easy!](https://eke.hashnode.dev/integrating-live-chat-to-your-wordpress-shopify-or-webflow-site-has-never-been-this-easy)
+- [Introduction to CSS Grid](https://eke.hashnode.dev/introduction-to-css-grid)
 <!-- BLOG-POST-LIST:END -->
 
 #### Contact
