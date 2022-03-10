@@ -17,6 +17,10 @@ Technical writer at <a href="https://github.com/Aviyel-oss">Aviyel</a></li>
 </p>
 <hr>
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 #### Contact
 <p align="left">
   <a href="http://twitter.com/evavic44">
