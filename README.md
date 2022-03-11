@@ -1,12 +1,12 @@
-![Profile Views](https://komarev.com/ghpvc/?username=evavic44&style=flat-square&color=6C5A9C)
+![Profile Views](https://komarev.com/ghpvc/?username=evavic44&style=flat-square&color=6cd63e)
 
-<img src="https://user-images.githubusercontent.com/62628408/133979919-ae221ed1-6972-476d-b1aa-3b9bdffd53a9.png" align="center">
-<hr>
+<!-- Banner Image -->
+<img src="https://user-images.githubusercontent.com/62628408/157836760-fcd8135e-7c17-4063-ad43-db139a9160db.gif" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=tahoma&color=8A6BF6&center=true&width=262&height=30&lines=Frontend+Web+Developer;Open+Source)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&duration=5400&color=5CB635&lines=Frontend+developer+building+ideas;Open+source)](https://git.io/typing-svg)
 
 <!-- About Me -->
-## 👤 About Me
+## About Me
 <img src="https://user-images.githubusercontent.com/62628408/149836465-b3308125-6da8-40a8-91e6-a1a4afdcd517.gif" width="30px">
 
 <p align="left">
@@ -31,19 +31,27 @@ I am a Frontend developer 🧩 who is passionate about building ideas in open so
 Most of my time as a developer is spent on building projects, learning new things everyday or just playing some music with my guitar. 🎸
 
 <!-- Open source -->
-### Open Source
-I started my open source journey 🐾 in June 2020 where I contributed to my first project on GitHub: [First Contributions](https://github.com/firstcontributions/first-contributions) which is an amazing project with over 50,000 contributors from around the world. 🌍 I was really excited and it got me motivated to join my first open source organization as a moderator: [Chryzhub](https://github.com/chryzhub). Fast forward to the present, I am currently maintaining and building [Communitypro](https://github.com/CommunityPro), an awesome community of over 80+ developers 😇 who love to see each other grow, learn and build projects together. I started this community to help people build their ideas and projects in a collaborative environment. <br>
+## Open Source
+<p align="left">
+<img src="https://forthebadge.com/images/badges/built-by-developers.svg">
+<img src="https://forthebadge.com/images/badges/built-with-love.svg">
+<img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg">
+<img src="https://user-images.githubusercontent.com/62628408/157833640-a41679f4-f66e-4d40-adda-ef6a4dbf1e3c.svg">
+
+</p>
+I am currently maintaining and building [Communitypro](https://github.com/CommunityPro), an awesome community of over 80+ developers 😇 who love to see each other grow, learn and build projects together. I started this community to help people build their ideas and projects in a collaborative environment. <br>
 
 Our best project so far: 🤩 [practice-contribution](https://github.com/CommunityPro/Practice-Contribution) has helped a lot of members contribute to open source for the first time. 🤍 We are starting our next project very soon in React and we love seeing members be a part of this project. 🤝🏽 [Join us here](https://github.com/CommunityPro/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+Community+Organization). <br>
 
 <div align="left">
-<a href="https://github.com/CommunityPro/Practice-Contribution"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=communitypro&repo=practice-contribution&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="practice contribution"></a>
-<a href="https://github.com/CommunityPro/portfolio-html"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CommunityPro&repo=portfolio-html&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="portfolio html"></a>
+<a href="https://github.com/CommunityPro/Practice-Contribution"><img width="350px" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=communitypro&repo=practice-contribution&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="practice contribution"></a>
+<a href="https://github.com/CommunityPro/portfolio-html"><img width="350px" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=CommunityPro&repo=portfolio-html&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="portfolio html"></a>
 </div> <br>
 
 <!-- Work -->
 ### Work 
-- <a href="https://aviyel.com/@victoreke">Aviyel</a>:  Sep 2021 - Present
+<a href="https://aviyel.com/@victoreke"><b>Aviyel</b></a>:  Sep 2021 - Present
+
 Currently working with Aviyel growth, design & product teams to help bridge the gap with open source content around some of the fastest growing projects. Aviyel is a community driven monetization platform for Open Source Projects. <a href="https://aviyel.com/@victoreke">Aviyel</a>
 
 <!-- Aviyel -->
@@ -59,9 +67,9 @@ Currently working with Aviyel growth, design & product teams to help bridge the 
 As a huge fan of open source, all my personal projects live on GitHub and Codepen. 😁 I have built over 20+ projects but there are some that I believe are worth mentioning:
 
 <div align="left">
-  <a href="https://github.com/Evavic44/hashnode-clone"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=evavic44&repo=hashnode-clone&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Hashnode Clone"></a>
-  <a href="https://github.com/Evavic44/Eke"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=evavic44&repo=eke&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Portfolio website"></a>
-  <a href="https://github.com/Evavic44/advice-generator"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=evavic44&repo=advice-generator&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Advice Generator"></a>
+  <a href="https://github.com/Evavic44/hashnode-clone"><img width="350px" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=evavic44&repo=hashnode-clone&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Hashnode Clone"></a>
+  <a href="https://github.com/Evavic44/Eke"><img width="350px" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=evavic44&repo=eke&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Portfolio website"></a>
+  <a href="https://github.com/Evavic44/advice-generator"><img width="350px" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=evavic44&repo=advice-generator&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Advice Generator"></a>
 </div>
 
 <!-- Blog Action Workflow -->
