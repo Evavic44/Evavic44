@@ -1,13 +1,14 @@
-![Profile Views](https://komarev.com/ghpvc/?username=evavic44&style=flat-square&color=6cd63e)
-
 <!-- Banner Image -->
-<img src="https://user-images.githubusercontent.com/62628408/157836760-fcd8135e-7c17-4063-ad43-db139a9160db.gif" width="100%">
+
+<a href="https://victoreke.com">
+  <img src="https://komarev.com/ghpvc/?username=evavic44&style=flat-square&color=6cd63e">
+  <img src="https://user-images.githubusercontent.com/62628408/157836760-fcd8135e-7c17-4063-ad43-db139a9160db.gif" width="100%">
+</a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&duration=5400&color=5CB635&lines=Frontend+developer+building+ideas;Open+source)](https://git.io/typing-svg)
 
 <!-- About Me -->
 ## About Me
-<img src="https://user-images.githubusercontent.com/62628408/149836465-b3308125-6da8-40a8-91e6-a1a4afdcd517.gif" width="30px">
 
 <p align="left">
   <a href="http://twitter.com/evavic44">
@@ -16,14 +17,8 @@
   <a href="https://www.linkedin.com/in/evavic44">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto: evavic44@gmail.com"> 
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
   <a href="https://codepen.io/evavic44"> 
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
-  </a>
-  <a href="https://stackoverflow.com/users/14021166/eke?tab=profile"> 
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>
 </p>
 
@@ -32,27 +27,21 @@ Most of my time as a developer is spent on building projects, learning new thing
 
 <!-- Open source -->
 ## Open Source
-<p align="left">
-<img src="https://forthebadge.com/images/badges/built-by-developers.svg">
-<img src="https://forthebadge.com/images/badges/built-with-love.svg">
-<img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg">
+<a href="https://github.com/CommunityPro" align="left">
+<img src="https://forthebadge.com/images/badges/powered-by-overtime.svg">
 <img src="https://user-images.githubusercontent.com/62628408/157833640-a41679f4-f66e-4d40-adda-ef6a4dbf1e3c.svg">
+</a>
 
-</p>
-I am currently maintaining and building [Communitypro](https://github.com/CommunityPro), an awesome community of over 80+ developers 😇 who love to see each other grow, learn and build projects together. I started this community to help people build their ideas and projects in a collaborative environment. <br>
-
-Our best project so far: 🤩 [practice-contribution](https://github.com/CommunityPro/Practice-Contribution) has helped a lot of members contribute to open source for the first time. 🤍 We are starting our next project very soon in React and we love seeing members be a part of this project. 🤝🏽 [Join us here](https://github.com/CommunityPro/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+Community+Organization). <br>
+Maintaining and building communitypro, an awesome community of over 80+ developers 😇 who love to see each other grow, learn and build projects together. Our best project so far: 🤩 [Practice-contribution](https://github.com/CommunityPro/Practice-Contribution) has helped a lot of members contribute to open source for the first time. 🤍 We are starting our next project very soon in React and we love seeing members be a part of this project. 🤝🏽 [Join us here](https://github.com/CommunityPro/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+Community+Organization). <br>
 
 <div align="left">
-<a href="https://github.com/CommunityPro/Practice-Contribution"><img width="350px" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=communitypro&repo=practice-contribution&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="practice contribution"></a>
-<a href="https://github.com/CommunityPro/portfolio-html"><img width="350px" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=CommunityPro&repo=portfolio-html&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="portfolio html"></a>
-</div> <br>
+<a href="https://github.com/CommunityPro/Practice-Contribution"><img src="https://github-readme-stats.vercel.app/api/pin/?username=communitypro&repo=practice-contribution&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="practice contribution"></a>
+<a href="https://github.com/CommunityPro/portfolio-html"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CommunityPro&repo=portfolio-html&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="portfolio html"></a>
+</div>
 
 <!-- Work -->
-### Work 
-<a href="https://aviyel.com/@victoreke"><b>Aviyel</b></a>:  Sep 2021 - Present
-
-Currently working with Aviyel growth, design & product teams to help bridge the gap with open source content around some of the fastest growing projects. Aviyel is a community driven monetization platform for Open Source Projects. <a href="https://aviyel.com/@victoreke">Aviyel</a>
+## Work 
+Working with Aviyel growth, design & product teams to help bridge the gap with open source content around some of the fastest growing projects. Aviyel is a community driven monetization platform for Open Source Projects. <a href="https://aviyel.com/@victoreke">Aviyel</a>
 
 <!-- Aviyel -->
 <table>
@@ -63,17 +52,17 @@ Currently working with Aviyel growth, design & product teams to help bridge the 
 </table>
 
 <!-- Featured Projects -->
-## ⚒ Featured Projects
+## Featured Projects
 As a huge fan of open source, all my personal projects live on GitHub and Codepen. 😁 I have built over 20+ projects but there are some that I believe are worth mentioning:
 
 <div align="left">
-  <a href="https://github.com/Evavic44/hashnode-clone"><img width="350px" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=evavic44&repo=hashnode-clone&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Hashnode Clone"></a>
-  <a href="https://github.com/Evavic44/Eke"><img width="350px" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=evavic44&repo=eke&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Portfolio website"></a>
-  <a href="https://github.com/Evavic44/advice-generator"><img width="350px" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=evavic44&repo=advice-generator&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Advice Generator"></a>
+  <a href="https://github.com/Evavic44/hashnode-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=evavic44&repo=hashnode-clone&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Hashnode Clone"></a>
+  <a href="https://github.com/Evavic44/Eke"><img src="https://github-readme-stats.vercel.app/api/pin/?username=evavic44&repo=eke&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Portfolio website"></a>
+  <a href="https://github.com/Evavic44/advice-generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=evavic44&repo=advice-generator&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Advice Generator"></a>
 </div>
 
 <!-- Blog Action Workflow -->
-## 📝 Blogs posts
+## Blogs posts
 <a href="https://eke.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 <a href="https://dev.to/eke"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
 
@@ -85,8 +74,8 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 <!-- BLOG-POST-LIST:END -->
 
 
-## 🧰 Languages and Tools
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=evavic44&background=0D1117&ring=422F75&fire=FF4A0A&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&stroke=422F75&border=422F75&dates=422F75&sideLabels=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
+## Languages and Tools
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=evavic44&background=0D1117&ring=6cd63e&fire=0d74e7&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&stroke=6cd63e&border=6cd63e&dates=6cd63e&sideLabels=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
 
 <p align="left"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -103,7 +92,7 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 </p>
 <br>
 
-## ⭐ Recent GitHub Activity
+## Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#115](https://github.com/CommunityPro/portfolio-html/issues/115) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
 2. ❗️ Closed issue [#116](https://github.com/CommunityPro/portfolio-html/issues/116) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
@@ -111,11 +100,3 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 4. 🎉 Merged PR [#118](https://github.com/CommunityPro/portfolio-html/pull/118) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
 5. 🎉 Merged PR [#119](https://github.com/CommunityPro/portfolio-html/pull/119) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
 <!--END_SECTION:activity-->
-
-  
-## Tutorials
-<table>
-<tr>
-<td align="center"><a href="https://github.com/Evavic44/learn-css"><img src="https://user-images.githubusercontent.com/62628408/134408321-b9792c81-cf71-427d-9333-19f7ee57fd29.png" width="170px" height="100"><br><sub><b>Learn CSS</b></sub></a></td>
-</tr>
-</table>
