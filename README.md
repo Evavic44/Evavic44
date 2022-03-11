@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=tahoma&color=8A6BF6&center=true&width=262&height=30&lines=Frontend+Web+Developer;Open+Source)](https://git.io/typing-svg)
 
 <!-- About Me -->
-## About Me
+## 👤 About Me
 <img src="https://user-images.githubusercontent.com/62628408/149836465-b3308125-6da8-40a8-91e6-a1a4afdcd517.gif" width="30px">
 
 <p align="left">
@@ -55,7 +55,7 @@ Currently working with Aviyel growth, design & product teams to help bridge the 
 </table>
 
 <!-- Featured Projects -->
-## Featured Projects
+## ⚒ Featured Projects
 As a huge fan of open source, all my personal projects live on GitHub and Codepen. 😁 I have built over 20+ projects but there are some that I believe are worth mentioning:
 
 <div align="left">
@@ -65,7 +65,7 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 </div>
 
 <!-- Blog Action Workflow -->
-## Blogs posts
+## 📝 Blogs posts
 <a href="https://eke.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 <a href="https://dev.to/eke"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
 
@@ -77,7 +77,7 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 <!-- BLOG-POST-LIST:END -->
 
 
-## Languages and Tools
+## 🧰 Languages and Tools
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=evavic44&background=0D1117&ring=422F75&fire=FF4A0A&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&stroke=422F75&border=422F75&dates=422F75&sideLabels=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
 
 <p align="left"> 
@@ -94,6 +94,10 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
 <br>
+
+## ⭐ Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
   
 ## Tutorials
