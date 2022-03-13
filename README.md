@@ -94,9 +94,9 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/winniffy/portfolio-html/issues/1) in [winniffy/portfolio-html](https://github.com/winniffy/portfolio-html)
-2. 🗣 Commented on [#114](https://github.com/CommunityPro/portfolio-html/issues/114) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
-3. ❗️ Closed issue [#115](https://github.com/CommunityPro/portfolio-html/issues/115) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
-4. ❗️ Closed issue [#116](https://github.com/CommunityPro/portfolio-html/issues/116) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
-5. ❌ Closed PR [#113](https://github.com/CommunityPro/portfolio-html/pull/113) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
+1. 🎉 Merged PR [#120](https://github.com/CommunityPro/portfolio-html/pull/120) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
+2. ❗️ Closed issue [#114](https://github.com/CommunityPro/portfolio-html/issues/114) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
+3. 🗣 Commented on [#153](https://github.com/CommunityPro/support/issues/153) in [CommunityPro/support](https://github.com/CommunityPro/support)
+4. 🗣 Commented on [#154](https://github.com/CommunityPro/support/issues/154) in [CommunityPro/support](https://github.com/CommunityPro/support)
+5. ❌ Closed PR [#63](https://github.com/CommunityPro/Practice-Contribution/pull/63) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
 <!--END_SECTION:activity-->
