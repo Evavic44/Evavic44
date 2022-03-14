@@ -94,9 +94,9 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/CommunityPro/Practice-Contribution/pull/78) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
-2. 🗣 Commented on [#154](https://github.com/CommunityPro/support/issues/154) in [CommunityPro/support](https://github.com/CommunityPro/support)
-3. 🗣 Commented on [#120](https://github.com/CommunityPro/portfolio-html/issues/120) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
-4. 🎉 Merged PR [#120](https://github.com/CommunityPro/portfolio-html/pull/120) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
-5. ❗️ Closed issue [#114](https://github.com/CommunityPro/portfolio-html/issues/114) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
+1. ❗️ Opened issue [#1](https://github.com/CommunityPro/portfolio-react/issues/1) in [CommunityPro/portfolio-react](https://github.com/CommunityPro/portfolio-react)
+2. 🎉 Merged PR [#78](https://github.com/CommunityPro/Practice-Contribution/pull/78) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
+3. 🗣 Commented on [#154](https://github.com/CommunityPro/support/issues/154) in [CommunityPro/support](https://github.com/CommunityPro/support)
+4. 🗣 Commented on [#120](https://github.com/CommunityPro/portfolio-html/issues/120) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
+5. 🎉 Merged PR [#120](https://github.com/CommunityPro/portfolio-html/pull/120) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
 <!--END_SECTION:activity-->
