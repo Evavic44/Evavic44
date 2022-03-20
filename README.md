@@ -94,9 +94,9 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#233](https://github.com/chatwoot/docs/issues/233) in [chatwoot/docs](https://github.com/chatwoot/docs)
-2. 🗣 Commented on [#155](https://github.com/CommunityPro/support/issues/155) in [CommunityPro/support](https://github.com/CommunityPro/support)
-3. ❗️ Opened issue [#233](https://github.com/chatwoot/docs/issues/233) in [chatwoot/docs](https://github.com/chatwoot/docs)
-4. ❗️ Opened issue [#1](https://github.com/CommunityPro/portfolio-react/issues/1) in [CommunityPro/portfolio-react](https://github.com/CommunityPro/portfolio-react)
-5. 🎉 Merged PR [#78](https://github.com/CommunityPro/Practice-Contribution/pull/78) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
+1. 🗣 Commented on [#7380](https://github.com/vitejs/vite/issues/7380) in [vitejs/vite](https://github.com/vitejs/vite)
+2. 🗣 Commented on [#233](https://github.com/chatwoot/docs/issues/233) in [chatwoot/docs](https://github.com/chatwoot/docs)
+3. 🗣 Commented on [#155](https://github.com/CommunityPro/support/issues/155) in [CommunityPro/support](https://github.com/CommunityPro/support)
+4. ❗️ Opened issue [#233](https://github.com/chatwoot/docs/issues/233) in [chatwoot/docs](https://github.com/chatwoot/docs)
+5. ❗️ Opened issue [#1](https://github.com/CommunityPro/portfolio-react/issues/1) in [CommunityPro/portfolio-react](https://github.com/CommunityPro/portfolio-react)
 <!--END_SECTION:activity-->
