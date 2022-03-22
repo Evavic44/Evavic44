@@ -94,9 +94,9 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/Evavic44/rocketmeme/issues/35) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-2. 🗣 Commented on [#35](https://github.com/Evavic44/rocketmeme/issues/35) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-3. 🗣 Commented on [#37](https://github.com/Evavic44/rocketmeme/issues/37) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-4. 🗣 Commented on [#36](https://github.com/Evavic44/rocketmeme/issues/36) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-5. 🗣 Commented on [#869](https://github.com/executablebooks/jupyter-book/issues/869) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+1. 🎉 Merged PR [#38](https://github.com/Evavic44/rocketmeme/pull/38) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+2. 💪 Opened PR [#38](https://github.com/Evavic44/rocketmeme/pull/38) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+3. 🗣 Commented on [#35](https://github.com/Evavic44/rocketmeme/issues/35) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+4. 🗣 Commented on [#35](https://github.com/Evavic44/rocketmeme/issues/35) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+5. 🗣 Commented on [#37](https://github.com/Evavic44/rocketmeme/issues/37) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
 <!--END_SECTION:activity-->
