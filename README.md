@@ -94,9 +94,9 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7380](https://github.com/vitejs/vite/issues/7380) in [vitejs/vite](https://github.com/vitejs/vite)
+1. 🗣 Commented on [#869](https://github.com/executablebooks/jupyter-book/issues/869) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
 2. 🗣 Commented on [#7380](https://github.com/vitejs/vite/issues/7380) in [vitejs/vite](https://github.com/vitejs/vite)
-3. 🗣 Commented on [#233](https://github.com/chatwoot/docs/issues/233) in [chatwoot/docs](https://github.com/chatwoot/docs)
-4. 🗣 Commented on [#155](https://github.com/CommunityPro/support/issues/155) in [CommunityPro/support](https://github.com/CommunityPro/support)
-5. ❗️ Opened issue [#233](https://github.com/chatwoot/docs/issues/233) in [chatwoot/docs](https://github.com/chatwoot/docs)
+3. 🗣 Commented on [#7380](https://github.com/vitejs/vite/issues/7380) in [vitejs/vite](https://github.com/vitejs/vite)
+4. 🗣 Commented on [#233](https://github.com/chatwoot/docs/issues/233) in [chatwoot/docs](https://github.com/chatwoot/docs)
+5. 🗣 Commented on [#155](https://github.com/CommunityPro/support/issues/155) in [CommunityPro/support](https://github.com/CommunityPro/support)
 <!--END_SECTION:activity-->
