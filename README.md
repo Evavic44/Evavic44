@@ -94,9 +94,9 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#80](https://github.com/CommunityPro/Practice-Contribution/pull/80) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
-2. 🗣 Commented on [#31](https://github.com/aviyelverse/aviyel-first-pr/issues/31) in [aviyelverse/aviyel-first-pr](https://github.com/aviyelverse/aviyel-first-pr)
-3. 🗣 Commented on [#156](https://github.com/CommunityPro/support/issues/156) in [CommunityPro/support](https://github.com/CommunityPro/support)
-4. ❗️ Opened issue [#31](https://github.com/aviyelverse/aviyel-first-pr/issues/31) in [aviyelverse/aviyel-first-pr](https://github.com/aviyelverse/aviyel-first-pr)
-5. 🗣 Commented on [#23](https://github.com/aviyelverse/aviyel-first-pr/issues/23) in [aviyelverse/aviyel-first-pr](https://github.com/aviyelverse/aviyel-first-pr)
+1. 🎉 Merged PR [#3](https://github.com/nicholasovunda/bol/pull/3) in [nicholasovunda/bol](https://github.com/nicholasovunda/bol)
+2. 💪 Opened PR [#3](https://github.com/nicholasovunda/bol/pull/3) in [nicholasovunda/bol](https://github.com/nicholasovunda/bol)
+3. 🎉 Merged PR [#80](https://github.com/CommunityPro/Practice-Contribution/pull/80) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
+4. 🗣 Commented on [#31](https://github.com/aviyelverse/aviyel-first-pr/issues/31) in [aviyelverse/aviyel-first-pr](https://github.com/aviyelverse/aviyel-first-pr)
+5. 🗣 Commented on [#156](https://github.com/CommunityPro/support/issues/156) in [CommunityPro/support](https://github.com/CommunityPro/support)
 <!--END_SECTION:activity-->
