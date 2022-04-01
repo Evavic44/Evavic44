@@ -94,9 +94,9 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/ivybarley/100DaysChallenge/issues/5) in [ivybarley/100DaysChallenge](https://github.com/ivybarley/100DaysChallenge)
-2. 🗣 Commented on [#1](https://github.com/Evavic44/Practice-Contribution/issues/1) in [Evavic44/Practice-Contribution](https://github.com/Evavic44/Practice-Contribution)
-3. 🎉 Merged PR [#53](https://github.com/Evavic44/rocketmeme/pull/53) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-4. 💪 Opened PR [#53](https://github.com/Evavic44/rocketmeme/pull/53) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-5. 🎉 Merged PR [#52](https://github.com/Evavic44/rocketmeme/pull/52) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+1. 🗣 Commented on [#9](https://github.com/Evavic44/rocketmeme/issues/9) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+2. ❗️ Opened issue [#5](https://github.com/ivybarley/100DaysChallenge/issues/5) in [ivybarley/100DaysChallenge](https://github.com/ivybarley/100DaysChallenge)
+3. 🗣 Commented on [#1](https://github.com/Evavic44/Practice-Contribution/issues/1) in [Evavic44/Practice-Contribution](https://github.com/Evavic44/Practice-Contribution)
+4. 🎉 Merged PR [#53](https://github.com/Evavic44/rocketmeme/pull/53) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+5. 💪 Opened PR [#53](https://github.com/Evavic44/rocketmeme/pull/53) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
 <!--END_SECTION:activity-->
