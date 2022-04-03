@@ -94,9 +94,9 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#161](https://github.com/CommunityPro/support/issues/161) in [CommunityPro/support](https://github.com/CommunityPro/support)
-2. 🗣 Commented on [#31](https://github.com/aviyelverse/aviyel-first-pr/issues/31) in [aviyelverse/aviyel-first-pr](https://github.com/aviyelverse/aviyel-first-pr)
-3. 🗣 Commented on [#9](https://github.com/Evavic44/rocketmeme/issues/9) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-4. 🗣 Commented on [#32](https://github.com/Evavic44/rocketmeme/issues/32) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+1. ❗️ Closed issue [#159](https://github.com/CommunityPro/support/issues/159) in [CommunityPro/support](https://github.com/CommunityPro/support)
+2. 🗣 Commented on [#159](https://github.com/CommunityPro/support/issues/159) in [CommunityPro/support](https://github.com/CommunityPro/support)
+3. 🗣 Commented on [#161](https://github.com/CommunityPro/support/issues/161) in [CommunityPro/support](https://github.com/CommunityPro/support)
+4. 🗣 Commented on [#31](https://github.com/aviyelverse/aviyel-first-pr/issues/31) in [aviyelverse/aviyel-first-pr](https://github.com/aviyelverse/aviyel-first-pr)
 5. 🗣 Commented on [#9](https://github.com/Evavic44/rocketmeme/issues/9) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
 <!--END_SECTION:activity-->
