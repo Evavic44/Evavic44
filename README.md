@@ -94,9 +94,9 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/Evavic44/rocketmeme/issues/9) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-2. 🗣 Commented on [#32](https://github.com/Evavic44/rocketmeme/issues/32) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-3. 🗣 Commented on [#9](https://github.com/Evavic44/rocketmeme/issues/9) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-4. ❗️ Opened issue [#5](https://github.com/ivybarley/100DaysChallenge/issues/5) in [ivybarley/100DaysChallenge](https://github.com/ivybarley/100DaysChallenge)
-5. 🗣 Commented on [#1](https://github.com/Evavic44/Practice-Contribution/issues/1) in [Evavic44/Practice-Contribution](https://github.com/Evavic44/Practice-Contribution)
+1. 🗣 Commented on [#31](https://github.com/aviyelverse/aviyel-first-pr/issues/31) in [aviyelverse/aviyel-first-pr](https://github.com/aviyelverse/aviyel-first-pr)
+2. 🗣 Commented on [#9](https://github.com/Evavic44/rocketmeme/issues/9) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+3. 🗣 Commented on [#32](https://github.com/Evavic44/rocketmeme/issues/32) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+4. 🗣 Commented on [#9](https://github.com/Evavic44/rocketmeme/issues/9) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+5. ❗️ Opened issue [#5](https://github.com/ivybarley/100DaysChallenge/issues/5) in [ivybarley/100DaysChallenge](https://github.com/ivybarley/100DaysChallenge)
 <!--END_SECTION:activity-->
