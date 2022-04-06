@@ -99,9 +99,9 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3373](https://github.com/EddieHubCommunity/support/issues/3373) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🎉 Merged PR [#55](https://github.com/Evavic44/rocketmeme/pull/55) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-3. 💪 Opened PR [#55](https://github.com/Evavic44/rocketmeme/pull/55) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-4. ❗️ Reopened issue [#9](https://github.com/Evavic44/rocketmeme/issues/9) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-5. ❗️ Closed issue [#9](https://github.com/Evavic44/rocketmeme/issues/9) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+1. ❗️ Closed issue [#5](https://github.com/Evavic44/Social-media-header/issues/5) in [Evavic44/Social-media-header](https://github.com/Evavic44/Social-media-header)
+2. ❗️ Closed issue [#168](https://github.com/atisawd/boxicons/issues/168) in [atisawd/boxicons](https://github.com/atisawd/boxicons)
+3. 🗣 Commented on [#168](https://github.com/atisawd/boxicons/issues/168) in [atisawd/boxicons](https://github.com/atisawd/boxicons)
+4. ❗️ Closed issue [#79](https://github.com/zurichat/zc_plugin_tools/issues/79) in [zurichat/zc_plugin_tools](https://github.com/zurichat/zc_plugin_tools)
+5. ❗️ Closed issue [#1](https://github.com/devtowntech/website/issues/1) in [devtowntech/website](https://github.com/devtowntech/website)
 <!--END_SECTION:activity-->
