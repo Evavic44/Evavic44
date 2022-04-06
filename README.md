@@ -99,9 +99,9 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/Evavic44/rocketmeme/pull/55) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-2. 💪 Opened PR [#55](https://github.com/Evavic44/rocketmeme/pull/55) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-3. ❗️ Reopened issue [#9](https://github.com/Evavic44/rocketmeme/issues/9) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-4. ❗️ Closed issue [#9](https://github.com/Evavic44/rocketmeme/issues/9) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-5. 🎉 Merged PR [#54](https://github.com/Evavic44/rocketmeme/pull/54) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+1. ❗️ Closed issue [#3373](https://github.com/EddieHubCommunity/support/issues/3373) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🎉 Merged PR [#55](https://github.com/Evavic44/rocketmeme/pull/55) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+3. 💪 Opened PR [#55](https://github.com/Evavic44/rocketmeme/pull/55) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+4. ❗️ Reopened issue [#9](https://github.com/Evavic44/rocketmeme/issues/9) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+5. ❗️ Closed issue [#9](https://github.com/Evavic44/rocketmeme/issues/9) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
 <!--END_SECTION:activity-->
