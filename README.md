@@ -99,9 +99,9 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/CommunityPro/portfolio-react/issues/1) in [CommunityPro/portfolio-react](https://github.com/CommunityPro/portfolio-react)
-2. 💪 Opened PR [#8](https://github.com/ivybarley/100DaysChallenge/pull/8) in [ivybarley/100DaysChallenge](https://github.com/ivybarley/100DaysChallenge)
-3. 🗣 Commented on [#5](https://github.com/ivybarley/100DaysChallenge/issues/5) in [ivybarley/100DaysChallenge](https://github.com/ivybarley/100DaysChallenge)
-4. ❗️ Closed issue [#5](https://github.com/Evavic44/Social-media-header/issues/5) in [Evavic44/Social-media-header](https://github.com/Evavic44/Social-media-header)
-5. ❗️ Closed issue [#168](https://github.com/atisawd/boxicons/issues/168) in [atisawd/boxicons](https://github.com/atisawd/boxicons)
+1. ❌ Closed PR [#1](https://github.com/Evavic44/Practice-Contribution/pull/1) in [Evavic44/Practice-Contribution](https://github.com/Evavic44/Practice-Contribution)
+2. 🗣 Commented on [#1](https://github.com/CommunityPro/portfolio-react/issues/1) in [CommunityPro/portfolio-react](https://github.com/CommunityPro/portfolio-react)
+3. 💪 Opened PR [#8](https://github.com/ivybarley/100DaysChallenge/pull/8) in [ivybarley/100DaysChallenge](https://github.com/ivybarley/100DaysChallenge)
+4. 🗣 Commented on [#5](https://github.com/ivybarley/100DaysChallenge/issues/5) in [ivybarley/100DaysChallenge](https://github.com/ivybarley/100DaysChallenge)
+5. ❗️ Closed issue [#5](https://github.com/Evavic44/Social-media-header/issues/5) in [Evavic44/Social-media-header](https://github.com/Evavic44/Social-media-header)
 <!--END_SECTION:activity-->
