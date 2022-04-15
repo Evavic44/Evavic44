@@ -99,9 +99,9 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/CommunityPro/portfolio-react/issues/1) in [CommunityPro/portfolio-react](https://github.com/CommunityPro/portfolio-react)
-2. 🗣 Commented on [#163](https://github.com/CommunityPro/support/issues/163) in [CommunityPro/support](https://github.com/CommunityPro/support)
-3. ❌ Closed PR [#1](https://github.com/Evavic44/Practice-Contribution/pull/1) in [Evavic44/Practice-Contribution](https://github.com/Evavic44/Practice-Contribution)
-4. 🗣 Commented on [#1](https://github.com/CommunityPro/portfolio-react/issues/1) in [CommunityPro/portfolio-react](https://github.com/CommunityPro/portfolio-react)
-5. 💪 Opened PR [#8](https://github.com/ivybarley/100DaysChallenge/pull/8) in [ivybarley/100DaysChallenge](https://github.com/ivybarley/100DaysChallenge)
+1. 🗣 Commented on [#164](https://github.com/CommunityPro/support/issues/164) in [CommunityPro/support](https://github.com/CommunityPro/support)
+2. 🗣 Commented on [#1](https://github.com/CommunityPro/portfolio-react/issues/1) in [CommunityPro/portfolio-react](https://github.com/CommunityPro/portfolio-react)
+3. 🗣 Commented on [#163](https://github.com/CommunityPro/support/issues/163) in [CommunityPro/support](https://github.com/CommunityPro/support)
+4. ❌ Closed PR [#1](https://github.com/Evavic44/Practice-Contribution/pull/1) in [Evavic44/Practice-Contribution](https://github.com/Evavic44/Practice-Contribution)
+5. 🗣 Commented on [#1](https://github.com/CommunityPro/portfolio-react/issues/1) in [CommunityPro/portfolio-react](https://github.com/CommunityPro/portfolio-react)
 <!--END_SECTION:activity-->
