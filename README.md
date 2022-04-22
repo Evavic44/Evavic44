@@ -99,9 +99,9 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/CommunityPro/droid/issues/4) in [CommunityPro/droid](https://github.com/CommunityPro/droid)
-2. ❗️ Closed issue [#63](https://github.com/Evavic44/Eke/issues/63) in [Evavic44/Eke](https://github.com/Evavic44/Eke)
-3. ❗️ Closed issue [#61](https://github.com/Evavic44/Eke/issues/61) in [Evavic44/Eke](https://github.com/Evavic44/Eke)
-4. ❗️ Closed issue [#9](https://github.com/Evavic44/Social-media-header/issues/9) in [Evavic44/Social-media-header](https://github.com/Evavic44/Social-media-header)
-5. ❗️ Closed issue [#44](https://github.com/Evavic44/Eke/issues/44) in [Evavic44/Eke](https://github.com/Evavic44/Eke)
+1. 🎉 Merged PR [#6](https://github.com/Evavic44/portfolio-ideas/pull/6) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. 💪 Opened PR [#6](https://github.com/Evavic44/portfolio-ideas/pull/6) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+3. ❗️ Closed issue [#4](https://github.com/CommunityPro/droid/issues/4) in [CommunityPro/droid](https://github.com/CommunityPro/droid)
+4. ❗️ Closed issue [#63](https://github.com/Evavic44/Eke/issues/63) in [Evavic44/Eke](https://github.com/Evavic44/Eke)
+5. ❗️ Closed issue [#61](https://github.com/Evavic44/Eke/issues/61) in [Evavic44/Eke](https://github.com/Evavic44/Eke)
 <!--END_SECTION:activity-->
