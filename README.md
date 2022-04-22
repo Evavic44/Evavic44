@@ -72,10 +72,10 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 <a href="https://dev.to/eke"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make URLs pretty using Netlify](https://eke.hashnode.dev/how-to-make-urls-pretty-using-netlify)
 - [Rocketmeme - A Meme Library and Editor for creating and sharing memes](https://eke.hashnode.dev/rocketmeme-a-meme-library-and-editor-for-creating-and-sharing-memes)
 - [Three Awesome Ways to Install &amp; Set up SASS](https://eke.hashnode.dev/three-awesome-ways-to-install-and-set-up-sass)
 - [I Built Hashnode&#39;s Landing Page Clone With SASS](https://eke.hashnode.dev/i-built-hashnodes-landing-page-clone-with-sass)
-- [Integrating Live Chat to Your WordPress, Shopify or Webflow Site Has Never Been this Easy!](https://eke.hashnode.dev/integrating-live-chat-to-your-wordpress-shopify-or-webflow-site-has-never-been-this-easy)
 <!-- BLOG-POST-LIST:END -->
 
 
