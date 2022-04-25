@@ -62,8 +62,8 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
   <a href="https://github.com/Evavic44/hashnode-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=evavic44&repo=hashnode-clone&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Hashnode Clone"></a>
   <!--  Portfolio Website   -->
   <a href="https://github.com/Evavic44/Eke"><img src="https://github-readme-stats.vercel.app/api/pin/?username=evavic44&repo=eke&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Portfolio website"></a>
-  <!--  Advice Generator   -->
-  <a href="https://github.com/Evavic44/advice-generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=evavic44&repo=advice-generator&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Advice Generator"></a>
+  <!--  Portfolio Ideas   -->
+  <a href="https://github.com/Evavic44/portfolio-ideas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=evavic44&repo=portfolio-ideas&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Portfolio Ideas"></a>
 </div>
 
 <!-- Blog Action Workflow -->
