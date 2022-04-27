@@ -11,8 +11,8 @@
 ## About Me
 
 <p align="left">
-  <a href="http://twitter.com/evavic44">
-    <img src="https://img.shields.io/twitter/follow/evavic44?label=Twitter&logo=twitter&style=for-the-badge" />
+  <a href="https://www.twitter.com/evavic44" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitter/follow/evavic44?logo=twitter&style=for-the-badge&color=84cc16&labelColor=000000">
   </a>
   <a href="https://www.linkedin.com/in/evavic44">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -105,3 +105,9 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 4. 🎉 Merged PR [#8](https://github.com/Evavic44/portfolio-ideas/pull/8) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 5. 💪 Opened PR [#8](https://github.com/Evavic44/portfolio-ideas/pull/8) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 <!--END_SECTION:activity-->
+
+
+## Support
+if you love what I do and would like to support me, consider buying me a coffee 😊 <br>
+
+<a href="https://www.buymeacoffee.com/evavic44"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
