@@ -99,11 +99,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#82](https://github.com/CommunityPro/Practice-Contribution/issues/82) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
-2. 💪 Opened PR [#38](https://github.com/aviyelverse/aviyel-first-pr/pull/38) in [aviyelverse/aviyel-first-pr](https://github.com/aviyelverse/aviyel-first-pr)
-3. 🎉 Merged PR [#11](https://github.com/Evavic44/portfolio-ideas/pull/11) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-4. 💪 Opened PR [#11](https://github.com/Evavic44/portfolio-ideas/pull/11) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-5. 🎉 Merged PR [#10](https://github.com/Evavic44/portfolio-ideas/pull/10) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. ❗️ Opened issue [#57](https://github.com/Evavic44/rocketmeme/issues/57) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+2. 🗣 Commented on [#82](https://github.com/CommunityPro/Practice-Contribution/issues/82) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
+3. 💪 Opened PR [#38](https://github.com/aviyelverse/aviyel-first-pr/pull/38) in [aviyelverse/aviyel-first-pr](https://github.com/aviyelverse/aviyel-first-pr)
+4. 🎉 Merged PR [#11](https://github.com/Evavic44/portfolio-ideas/pull/11) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+5. 💪 Opened PR [#11](https://github.com/Evavic44/portfolio-ideas/pull/11) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 <!--END_SECTION:activity-->
 
 
