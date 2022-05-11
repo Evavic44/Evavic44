@@ -99,11 +99,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#58](https://github.com/Evavic44/rocketmeme/issues/58) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-2. 🗣 Commented on [#2](https://github.com/Evavic44/Learn-JavaScript/issues/2) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
-3. ❌ Closed PR [#79](https://github.com/CommunityPro/Practice-Contribution/pull/79) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
-4. 🗣 Commented on [#79](https://github.com/CommunityPro/Practice-Contribution/issues/79) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
-5. 🎉 Merged PR [#83](https://github.com/CommunityPro/Practice-Contribution/pull/83) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
+1. 🎉 Merged PR [#85](https://github.com/CommunityPro/Practice-Contribution/pull/85) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
+2. ❗️ Opened issue [#58](https://github.com/Evavic44/rocketmeme/issues/58) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+3. 🗣 Commented on [#2](https://github.com/Evavic44/Learn-JavaScript/issues/2) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
+4. ❌ Closed PR [#79](https://github.com/CommunityPro/Practice-Contribution/pull/79) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
+5. 🗣 Commented on [#79](https://github.com/CommunityPro/Practice-Contribution/issues/79) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
 <!--END_SECTION:activity-->
 
 
