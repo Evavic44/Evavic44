@@ -92,8 +92,6 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 <!-- BLOG-POST-LIST:END -->
 
 
-<a href="https://app.daily.dev/Eke"><img src="https://api.daily.dev/devcards/24383f6244054076b144872f16284e81.png?r=rmw" width="400" alt="Victor Eke's Dev Card"/></a>
-
 ## Languages and Tools
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=evavic44&background=0D1117&ring=6cd63e&fire=0d74e7&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&stroke=6cd63e&border=6cd63e&dates=6cd63e&sideLabels=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
 
