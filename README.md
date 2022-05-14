@@ -113,11 +113,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Evavic44/Skeep/pull/1) in [Evavic44/Skeep](https://github.com/Evavic44/Skeep)
-2. 💪 Opened PR [#1](https://github.com/Evavic44/Skeep/pull/1) in [Evavic44/Skeep](https://github.com/Evavic44/Skeep)
-3. 🗣 Commented on [#1](https://github.com/CommunityPro/portfolio-react/issues/1) in [CommunityPro/portfolio-react](https://github.com/CommunityPro/portfolio-react)
-4. ❗️ Closed issue [#1](https://github.com/Evavic44/Learn-JavaScript/issues/1) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
-5. 🎉 Merged PR [#10](https://github.com/Evavic44/Learn-JavaScript/pull/10) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
+1. 🎉 Merged PR [#59](https://github.com/Evavic44/rocketmeme/pull/59) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+2. ❗️ Closed issue [#58](https://github.com/Evavic44/rocketmeme/issues/58) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+3. 🎉 Merged PR [#1](https://github.com/Evavic44/Skeep/pull/1) in [Evavic44/Skeep](https://github.com/Evavic44/Skeep)
+4. 💪 Opened PR [#1](https://github.com/Evavic44/Skeep/pull/1) in [Evavic44/Skeep](https://github.com/Evavic44/Skeep)
+5. 🗣 Commented on [#1](https://github.com/CommunityPro/portfolio-react/issues/1) in [CommunityPro/portfolio-react](https://github.com/CommunityPro/portfolio-react)
 <!--END_SECTION:activity-->
 
 
