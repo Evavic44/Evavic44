@@ -34,10 +34,11 @@ Most of my time as a developer is spent on building projects, learning new thing
 <td align="center"><a href="https://dev.to/eke"><img src="https://user-images.githubusercontent.com/62628408/168408907-89113177-bbde-4a97-95b6-8e942679ca60.png" width="90px"></a></td>
 <td align="center"><a href="https://dev.to/eke"><img src="https://user-images.githubusercontent.com/62628408/168408946-8b222b35-4732-4fc7-bc2b-5584c5aafbae.png" width="90px"></a></td>
 <td align="center"><a href="https://app.daily.dev/posts/LizSgodjG"><img src="https://user-images.githubusercontent.com/62628408/168409514-dc69ccd4-82df-4194-bf4d-cb49f4c9d250.png" width="90px"></a></td>
-<td align="center"><a href="/"><img src="https://user-images.githubusercontent.com/62628408/168409835-2b7eb55b-c74f-447f-a19e-431b420742ad.png" width="90px"></a></td>
+<td align="center"><a href="/"><img src="https://user-images.githubusercontent.com/62628408/169523617-488114e4-717e-4ee9-834c-f69ff4589cf7.png" width="90px"></a></td>
 <td align="center"><a href="/"><img src="https://user-images.githubusercontent.com/62628408/168421180-9131d877-5556-4082-82fc-1d792f6320fa.png" width="90px"></a></td></a>
 </tr>
 </table>
+
 
 <!-- Open source -->
 ## Open Source
