@@ -116,11 +116,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/Evavic44/portfolio-ideas/pull/22) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-2. 💪 Opened PR [#22](https://github.com/Evavic44/portfolio-ideas/pull/22) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-3. 🎉 Merged PR [#21](https://github.com/Evavic44/portfolio-ideas/pull/21) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-4. 💪 Opened PR [#21](https://github.com/Evavic44/portfolio-ideas/pull/21) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-5. 🎉 Merged PR [#20](https://github.com/Evavic44/portfolio-ideas/pull/20) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. 🎉 Merged PR [#26](https://github.com/Evavic44/portfolio-ideas/pull/26) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. 💪 Opened PR [#26](https://github.com/Evavic44/portfolio-ideas/pull/26) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+3. 🎉 Merged PR [#25](https://github.com/Evavic44/portfolio-ideas/pull/25) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+4. 💪 Opened PR [#25](https://github.com/Evavic44/portfolio-ideas/pull/25) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+5. 🎉 Merged PR [#24](https://github.com/Evavic44/portfolio-ideas/pull/24) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 <!--END_SECTION:activity-->
 
 
