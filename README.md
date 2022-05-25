@@ -87,6 +87,7 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 ## Blogs posts
 <a href="https://eke.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 <a href="https://dev.to/eke"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
+<a href="https://app.daily.dev/Eke"><img src="https://img.shields.io/badge/daily-profile-151618?style=for-the-badge"></a>
 
 <!-- BLOG-POST-LIST:START -->
 - [The amazing HTML5 Picture Element](https://eke.hashnode.dev/the-amazing-html5-picture-element)
