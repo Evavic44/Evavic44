@@ -117,11 +117,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7445](https://github.com/simple-icons/simple-icons/issues/7445) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 🗣 Commented on [#174](https://github.com/CommunityPro/support/issues/174) in [CommunityPro/support](https://github.com/CommunityPro/support)
-3. 🗣 Commented on [#173](https://github.com/CommunityPro/support/issues/173) in [CommunityPro/support](https://github.com/CommunityPro/support)
-4. 🎉 Merged PR [#27](https://github.com/Evavic44/portfolio-ideas/pull/27) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-5. 💪 Opened PR [#27](https://github.com/Evavic44/portfolio-ideas/pull/27) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. 🎉 Merged PR [#28](https://github.com/Evavic44/portfolio-ideas/pull/28) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. 💪 Opened PR [#28](https://github.com/Evavic44/portfolio-ideas/pull/28) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+3. ❗️ Opened issue [#7445](https://github.com/simple-icons/simple-icons/issues/7445) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🗣 Commented on [#174](https://github.com/CommunityPro/support/issues/174) in [CommunityPro/support](https://github.com/CommunityPro/support)
+5. 🗣 Commented on [#173](https://github.com/CommunityPro/support/issues/173) in [CommunityPro/support](https://github.com/CommunityPro/support)
 <!--END_SECTION:activity-->
 
 
