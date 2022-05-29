@@ -117,11 +117,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/Evavic44/Transformed-Minds/pull/25) in [Evavic44/Transformed-Minds](https://github.com/Evavic44/Transformed-Minds)
-2. 💪 Opened PR [#25](https://github.com/Evavic44/Transformed-Minds/pull/25) in [Evavic44/Transformed-Minds](https://github.com/Evavic44/Transformed-Minds)
-3. 🎉 Merged PR [#24](https://github.com/Evavic44/Transformed-Minds/pull/24) in [Evavic44/Transformed-Minds](https://github.com/Evavic44/Transformed-Minds)
-4. 💪 Opened PR [#24](https://github.com/Evavic44/Transformed-Minds/pull/24) in [Evavic44/Transformed-Minds](https://github.com/Evavic44/Transformed-Minds)
-5. 🎉 Merged PR [#23](https://github.com/Evavic44/Transformed-Minds/pull/23) in [Evavic44/Transformed-Minds](https://github.com/Evavic44/Transformed-Minds)
+1. 🗣 Commented on [#14](https://github.com/Evavic44/Learn-JavaScript/issues/14) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
+2. 🎉 Merged PR [#25](https://github.com/Evavic44/Transformed-Minds/pull/25) in [Evavic44/Transformed-Minds](https://github.com/Evavic44/Transformed-Minds)
+3. 💪 Opened PR [#25](https://github.com/Evavic44/Transformed-Minds/pull/25) in [Evavic44/Transformed-Minds](https://github.com/Evavic44/Transformed-Minds)
+4. 🎉 Merged PR [#24](https://github.com/Evavic44/Transformed-Minds/pull/24) in [Evavic44/Transformed-Minds](https://github.com/Evavic44/Transformed-Minds)
+5. 💪 Opened PR [#24](https://github.com/Evavic44/Transformed-Minds/pull/24) in [Evavic44/Transformed-Minds](https://github.com/Evavic44/Transformed-Minds)
 <!--END_SECTION:activity-->
 
 
