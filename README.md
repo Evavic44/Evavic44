@@ -39,8 +39,13 @@ Most of my time as a developer is spent on building projects, learning new thing
 <td align="center"><a href="/"><img src="https://user-images.githubusercontent.com/62628408/169523617-488114e4-717e-4ee9-834c-f69ff4589cf7.png" width="90px"></a></td>
 <td align="center"><a href="/"><img src="https://user-images.githubusercontent.com/62628408/168421180-9131d877-5556-4082-82fc-1d792f6320fa.png" width="90px"></a></td></a>
 </tr>
-</table>
 
+<tr>
+<td align="center"><a href="https://aviyel.com/@victoreke" title="Early Adopter"><img src="https://user-images.githubusercontent.com/62628408/171622741-81ba6517-8dbd-4da1-ae30-f164e7e920b4.png" width="90px"></a></td></a>
+<td align="center"><a href="https://aviyel.com/@victoreke" title="Platform Contributor"><img src="https://user-images.githubusercontent.com/62628408/171622788-d410d6ea-43fd-4b10-ad79-416be9dad49a.png" width="90px"></a></td></a>
+<td align="center"><a href="https://aviyel.com/@victoreke" title="Open Source Contributor"><img src="https://user-images.githubusercontent.com/62628408/171622761-6430db9c-1f91-4093-8d17-ae51b09c7662.png" width="90px"></a></td></a>
+</tr>
+</table>
 
 <!-- Open source -->
 ## Open Source
