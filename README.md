@@ -31,7 +31,7 @@ Most of my time as a developer is spent on building projects, learning new thing
 
 <table>
 <tr>
-<td align="center"><a href="/"><img src="https://user-images.githubusercontent.com/62628408/169521670-1046aabe-7570-413e-a58d-4227bda3054f.png" width="90px"></a></td>
+<td align="center"><a href="https://eke.hashnode.dev/badges" title="Hashnode Hasura Hackathon"><img src="https://user-images.githubusercontent.com/62628408/169521670-1046aabe-7570-413e-a58d-4227bda3054f.png" width="90px"></a></td>
 <td align="center"><a href="https://google.com"><img src="https://user-images.githubusercontent.com/62628408/168408573-afac9024-904e-4331-9b48-a1fb71d61596.png" width="90px"></a></td>
 <td align="center"><a href="https://dev.to/eke"><img src="https://user-images.githubusercontent.com/62628408/168408907-89113177-bbde-4a97-95b6-8e942679ca60.png" width="90px"></a></td>
 <td align="center"><a href="https://dev.to/eke"><img src="https://user-images.githubusercontent.com/62628408/168408946-8b222b35-4732-4fc7-bc2b-5584c5aafbae.png" width="90px"></a></td>
@@ -44,6 +44,7 @@ Most of my time as a developer is spent on building projects, learning new thing
 <td align="center"><a href="https://aviyel.com/@victoreke" title="Early Adopter"><img src="https://user-images.githubusercontent.com/62628408/171622741-81ba6517-8dbd-4da1-ae30-f164e7e920b4.png" width="90px"></a></td></a>
 <td align="center"><a href="https://aviyel.com/@victoreke" title="Platform Contributor"><img src="https://user-images.githubusercontent.com/62628408/171622788-d410d6ea-43fd-4b10-ad79-416be9dad49a.png" width="90px"></a></td></a>
 <td align="center"><a href="https://aviyel.com/@victoreke" title="Open Source Contributor"><img src="https://user-images.githubusercontent.com/62628408/171622761-6430db9c-1f91-4093-8d17-ae51b09c7662.png" width="90px"></a></td></a>
+<td align="center"><a href="https://eke.hashnode.dev/badges" title="Talk of the Town"><img src="https://user-images.githubusercontent.com/62628408/172899535-a6597408-6960-47ae-9343-0ff6fb8645e5.png" width="90px"></a></td>
 </tr>
 </table>
 
