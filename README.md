@@ -124,10 +124,10 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5380](https://github.com/microsoft/vscode-docs/issues/5380) in [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
-2. 🎉 Merged PR [#19](https://github.com/Evavic44/Learn-JavaScript/pull/19) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
-3. 💪 Opened PR [#19](https://github.com/Evavic44/Learn-JavaScript/pull/19) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
-4. 🎉 Merged PR [#18](https://github.com/Evavic44/Learn-JavaScript/pull/18) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
-5. 💪 Opened PR [#18](https://github.com/Evavic44/Learn-JavaScript/pull/18) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
+2. 🗣 Commented on [#5380](https://github.com/microsoft/vscode-docs/issues/5380) in [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
+3. 🎉 Merged PR [#19](https://github.com/Evavic44/Learn-JavaScript/pull/19) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
+4. 💪 Opened PR [#19](https://github.com/Evavic44/Learn-JavaScript/pull/19) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
+5. 🎉 Merged PR [#18](https://github.com/Evavic44/Learn-JavaScript/pull/18) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
 <!--END_SECTION:activity-->
 
 
