@@ -123,11 +123,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#88](https://github.com/CommunityPro/Practice-Contribution/issues/88) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
-2. 💪 Opened PR [#5410](https://github.com/microsoft/vscode-docs/pull/5410) in [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
-3. 🗣 Commented on [#5380](https://github.com/microsoft/vscode-docs/issues/5380) in [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
+1. 🎉 Merged PR [#88](https://github.com/CommunityPro/Practice-Contribution/pull/88) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
+2. 🗣 Commented on [#88](https://github.com/CommunityPro/Practice-Contribution/issues/88) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
+3. 💪 Opened PR [#5410](https://github.com/microsoft/vscode-docs/pull/5410) in [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
 4. 🗣 Commented on [#5380](https://github.com/microsoft/vscode-docs/issues/5380) in [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
-5. 🎉 Merged PR [#19](https://github.com/Evavic44/Learn-JavaScript/pull/19) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
+5. 🗣 Commented on [#5380](https://github.com/microsoft/vscode-docs/issues/5380) in [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
 <!--END_SECTION:activity-->
 
 
