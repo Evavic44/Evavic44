@@ -123,11 +123,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#89](https://github.com/CommunityPro/Practice-Contribution/pull/89) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
-2. 🗣 Commented on [#67](https://github.com/Evavic44/portfolio-ideas/issues/67) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-3. 🗣 Commented on [#67](https://github.com/Evavic44/portfolio-ideas/issues/67) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-4. 🎉 Merged PR [#88](https://github.com/CommunityPro/Practice-Contribution/pull/88) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
-5. 🗣 Commented on [#88](https://github.com/CommunityPro/Practice-Contribution/issues/88) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
+1. 💪 Opened PR [#20](https://github.com/Evavic44/Learn-JavaScript/pull/20) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
+2. 🗣 Commented on [#219](https://github.com/maintainers/invite-automation/issues/219) in [maintainers/invite-automation](https://github.com/maintainers/invite-automation)
+3. 🎉 Merged PR [#89](https://github.com/CommunityPro/Practice-Contribution/pull/89) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
+4. 🗣 Commented on [#67](https://github.com/Evavic44/portfolio-ideas/issues/67) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+5. 🗣 Commented on [#67](https://github.com/Evavic44/portfolio-ideas/issues/67) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 <!--END_SECTION:activity-->
 
 
