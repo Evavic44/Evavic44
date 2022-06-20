@@ -123,11 +123,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3295](https://github.com/ToolJet/ToolJet/issues/3295) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-2. 💪 Opened PR [#20](https://github.com/Evavic44/Learn-JavaScript/pull/20) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
-3. 🗣 Commented on [#219](https://github.com/maintainers/invite-automation/issues/219) in [maintainers/invite-automation](https://github.com/maintainers/invite-automation)
-4. 🎉 Merged PR [#89](https://github.com/CommunityPro/Practice-Contribution/pull/89) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
-5. 🗣 Commented on [#67](https://github.com/Evavic44/portfolio-ideas/issues/67) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. 🗣 Commented on [#177](https://github.com/CommunityPro/support/issues/177) in [CommunityPro/support](https://github.com/CommunityPro/support)
+2. ❗️ Closed issue [#177](https://github.com/CommunityPro/support/issues/177) in [CommunityPro/support](https://github.com/CommunityPro/support)
+3. ❗️ Closed issue [#178](https://github.com/CommunityPro/support/issues/178) in [CommunityPro/support](https://github.com/CommunityPro/support)
+4. ❗️ Closed issue [#179](https://github.com/CommunityPro/support/issues/179) in [CommunityPro/support](https://github.com/CommunityPro/support)
+5. 🗣 Commented on [#179](https://github.com/CommunityPro/support/issues/179) in [CommunityPro/support](https://github.com/CommunityPro/support)
 <!--END_SECTION:activity-->
 
 
