@@ -123,11 +123,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#177](https://github.com/CommunityPro/support/issues/177) in [CommunityPro/support](https://github.com/CommunityPro/support)
-2. ❗️ Closed issue [#177](https://github.com/CommunityPro/support/issues/177) in [CommunityPro/support](https://github.com/CommunityPro/support)
-3. ❗️ Closed issue [#178](https://github.com/CommunityPro/support/issues/178) in [CommunityPro/support](https://github.com/CommunityPro/support)
-4. ❗️ Closed issue [#179](https://github.com/CommunityPro/support/issues/179) in [CommunityPro/support](https://github.com/CommunityPro/support)
-5. 🗣 Commented on [#179](https://github.com/CommunityPro/support/issues/179) in [CommunityPro/support](https://github.com/CommunityPro/support)
+1. ❗️ Opened issue [#183](https://github.com/CommunityPro/support/issues/183) in [CommunityPro/support](https://github.com/CommunityPro/support)
+2. 🎉 Merged PR [#182](https://github.com/CommunityPro/support/pull/182) in [CommunityPro/support](https://github.com/CommunityPro/support)
+3. 💪 Opened PR [#182](https://github.com/CommunityPro/support/pull/182) in [CommunityPro/support](https://github.com/CommunityPro/support)
+4. 🗣 Commented on [#177](https://github.com/CommunityPro/support/issues/177) in [CommunityPro/support](https://github.com/CommunityPro/support)
+5. ❗️ Closed issue [#177](https://github.com/CommunityPro/support/issues/177) in [CommunityPro/support](https://github.com/CommunityPro/support)
 <!--END_SECTION:activity-->
 
 
