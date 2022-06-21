@@ -123,11 +123,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#188](https://github.com/CommunityPro/support/issues/188) in [CommunityPro/support](https://github.com/CommunityPro/support)
-2. 🎉 Merged PR [#185](https://github.com/CommunityPro/support/pull/185) in [CommunityPro/support](https://github.com/CommunityPro/support)
-3. 💪 Opened PR [#185](https://github.com/CommunityPro/support/pull/185) in [CommunityPro/support](https://github.com/CommunityPro/support)
-4. ❗️ Opened issue [#183](https://github.com/CommunityPro/support/issues/183) in [CommunityPro/support](https://github.com/CommunityPro/support)
-5. 🎉 Merged PR [#182](https://github.com/CommunityPro/support/pull/182) in [CommunityPro/support](https://github.com/CommunityPro/support)
+1. 🎉 Merged PR [#68](https://github.com/Evavic44/portfolio-ideas/pull/68) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. ❗️ Closed issue [#188](https://github.com/CommunityPro/support/issues/188) in [CommunityPro/support](https://github.com/CommunityPro/support)
+3. 🎉 Merged PR [#185](https://github.com/CommunityPro/support/pull/185) in [CommunityPro/support](https://github.com/CommunityPro/support)
+4. 💪 Opened PR [#185](https://github.com/CommunityPro/support/pull/185) in [CommunityPro/support](https://github.com/CommunityPro/support)
+5. ❗️ Opened issue [#183](https://github.com/CommunityPro/support/issues/183) in [CommunityPro/support](https://github.com/CommunityPro/support)
 <!--END_SECTION:activity-->
 
 
