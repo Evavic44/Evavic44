@@ -96,10 +96,10 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 <a href="https://app.daily.dev/Eke"><img src="https://img.shields.io/badge/daily-profile-151618?style=for-the-badge"></a>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to interact with components and queries using custom vanilla JavaScript code in ToolJet](https://eke.hashnode.dev/how-to-interact-with-components-and-queries-using-custom-vanilla-javascript-code-in-tooljet)
 - [Portfolio Ideas - An open-source repository for inspiration](https://eke.hashnode.dev/portfolio-ideas-an-open-source-repository-for-inspiration)
 - [The amazing HTML5 Picture Element](https://eke.hashnode.dev/the-amazing-html5-picture-element)
 - [How to effectively maximize your day](https://eke.hashnode.dev/how-to-effectively-maximize-your-day)
-- [How to make URLs pretty using Netlify](https://eke.hashnode.dev/how-to-make-urls-pretty-using-netlify)
 <!-- BLOG-POST-LIST:END -->
 
 
