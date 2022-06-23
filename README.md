@@ -123,11 +123,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#9](https://github.com/Evavic44/rocketmeme/issues/9) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-2. 🎉 Merged PR [#63](https://github.com/Evavic44/rocketmeme/pull/63) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-3. ❗️ Closed issue [#9](https://github.com/Evavic44/rocketmeme/issues/9) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-4. 🎉 Merged PR [#73](https://github.com/Evavic44/portfolio-ideas/pull/73) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-5. 🎉 Merged PR [#20](https://github.com/Evavic44/Learn-JavaScript/pull/20) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
+1. 🗣 Commented on [#5](https://github.com/Evavic44/Learn-JavaScript/issues/5) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
+2. ❗️ Reopened issue [#9](https://github.com/Evavic44/rocketmeme/issues/9) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+3. 🎉 Merged PR [#63](https://github.com/Evavic44/rocketmeme/pull/63) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+4. ❗️ Closed issue [#9](https://github.com/Evavic44/rocketmeme/issues/9) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+5. 🎉 Merged PR [#73](https://github.com/Evavic44/portfolio-ideas/pull/73) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 <!--END_SECTION:activity-->
 
 
