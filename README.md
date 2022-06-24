@@ -123,11 +123,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Evavic44/Learn-JavaScript/issues/1) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
-2. ❗️ Closed issue [#1](https://github.com/Evavic44/Learn-JavaScript/issues/1) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
-3. 🗣 Commented on [#1](https://github.com/Evavic44/Learn-JavaScript/issues/1) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
-4. ❗️ Reopened issue [#1](https://github.com/Evavic44/Learn-JavaScript/issues/1) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
-5. 🗣 Commented on [#1](https://github.com/Evavic44/Learn-JavaScript/issues/1) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
+1. 🎉 Merged PR [#74](https://github.com/Evavic44/portfolio-ideas/pull/74) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. 🗣 Commented on [#1](https://github.com/Evavic44/Learn-JavaScript/issues/1) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
+3. ❗️ Closed issue [#1](https://github.com/Evavic44/Learn-JavaScript/issues/1) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
+4. 🗣 Commented on [#1](https://github.com/Evavic44/Learn-JavaScript/issues/1) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
+5. ❗️ Reopened issue [#1](https://github.com/Evavic44/Learn-JavaScript/issues/1) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
 <!--END_SECTION:activity-->
 
 
