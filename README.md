@@ -123,11 +123,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#75](https://github.com/Evavic44/portfolio-ideas/pull/75) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-2. 💪 Opened PR [#75](https://github.com/Evavic44/portfolio-ideas/pull/75) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-3. 🎉 Merged PR [#74](https://github.com/Evavic44/portfolio-ideas/pull/74) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-4. 🗣 Commented on [#1](https://github.com/Evavic44/Learn-JavaScript/issues/1) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
-5. ❗️ Closed issue [#1](https://github.com/Evavic44/Learn-JavaScript/issues/1) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
+1. 🎉 Merged PR [#3](https://github.com/Evavic44/currencee/pull/3) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
+2. 💪 Opened PR [#3](https://github.com/Evavic44/currencee/pull/3) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
+3. 🎉 Merged PR [#2](https://github.com/Evavic44/currencee/pull/2) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
+4. 🗣 Commented on [#2](https://github.com/Evavic44/currencee/issues/2) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
+5. ❗️ Closed issue [#9](https://github.com/Evavic44/rocketmeme/issues/9) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
 <!--END_SECTION:activity-->
 
 
