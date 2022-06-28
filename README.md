@@ -123,11 +123,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#77](https://github.com/Evavic44/portfolio-ideas/issues/77) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-2. 🗣 Commented on [#192](https://github.com/CommunityPro/support/issues/192) in [CommunityPro/support](https://github.com/CommunityPro/support)
-3. 🎉 Merged PR [#76](https://github.com/Evavic44/portfolio-ideas/pull/76) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-4. 🗣 Commented on [#191](https://github.com/CommunityPro/support/issues/191) in [CommunityPro/support](https://github.com/CommunityPro/support)
-5. 🎉 Merged PR [#3](https://github.com/Evavic44/currencee/pull/3) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
+1. 🎉 Merged PR [#4](https://github.com/Evavic44/currencee/pull/4) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
+2. 💪 Opened PR [#4](https://github.com/Evavic44/currencee/pull/4) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
+3. 🗣 Commented on [#77](https://github.com/Evavic44/portfolio-ideas/issues/77) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+4. 🗣 Commented on [#192](https://github.com/CommunityPro/support/issues/192) in [CommunityPro/support](https://github.com/CommunityPro/support)
+5. 🎉 Merged PR [#76](https://github.com/Evavic44/portfolio-ideas/pull/76) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 <!--END_SECTION:activity-->
 
 
