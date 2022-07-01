@@ -123,11 +123,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#81](https://github.com/Evavic44/portfolio-ideas/pull/81) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-2. ❗️ Opened issue [#9](https://github.com/Evavic44/currencee/issues/9) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
-3. ❗️ Opened issue [#8](https://github.com/Evavic44/currencee/issues/8) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
-4. 🎉 Merged PR [#7](https://github.com/Evavic44/currencee/pull/7) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
-5. 🎉 Merged PR [#80](https://github.com/Evavic44/portfolio-ideas/pull/80) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. 🎉 Merged PR [#82](https://github.com/Evavic44/portfolio-ideas/pull/82) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. 🎉 Merged PR [#81](https://github.com/Evavic44/portfolio-ideas/pull/81) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+3. ❗️ Opened issue [#9](https://github.com/Evavic44/currencee/issues/9) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
+4. ❗️ Opened issue [#8](https://github.com/Evavic44/currencee/issues/8) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
+5. 🎉 Merged PR [#7](https://github.com/Evavic44/currencee/pull/7) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
 <!--END_SECTION:activity-->
 
 
