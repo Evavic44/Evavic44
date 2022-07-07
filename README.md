@@ -123,11 +123,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5410](https://github.com/microsoft/vscode-docs/issues/5410) in [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
-2. ❗️ Closed issue [#8](https://github.com/Evavic44/currencee/issues/8) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
-3. 🎉 Merged PR [#12](https://github.com/Evavic44/currencee/pull/12) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
-4. 💪 Opened PR [#12](https://github.com/Evavic44/currencee/pull/12) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
-5. ❗️ Closed issue [#9](https://github.com/Evavic44/currencee/issues/9) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
+1. 🎉 Merged PR [#87](https://github.com/Evavic44/portfolio-ideas/pull/87) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. 🗣 Commented on [#5410](https://github.com/microsoft/vscode-docs/issues/5410) in [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
+3. ❗️ Closed issue [#8](https://github.com/Evavic44/currencee/issues/8) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
+4. 🎉 Merged PR [#12](https://github.com/Evavic44/currencee/pull/12) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
+5. 💪 Opened PR [#12](https://github.com/Evavic44/currencee/pull/12) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
 <!--END_SECTION:activity-->
 
 
