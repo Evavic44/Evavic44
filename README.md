@@ -3,7 +3,6 @@
 <img src="https://komarev.com/ghpvc/?username=evavic44&style=flat-square&color=6cd63e">
   
 <a href="https://victoreke.com">
-
   <img src="https://user-images.githubusercontent.com/62628408/157836760-fcd8135e-7c17-4063-ad43-db139a9160db.gif" width="100%">
 </a>
 
@@ -14,9 +13,9 @@
 
 <p align="left">
   <a href="https://www.twitter.com/evavic44" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/evavic44?logo=twitter&style=for-the-badge&color=84cc16&labelColor=000000">
+    <img src="https://img.shields.io/twitter/follow/evavic44?logo=twitter&style=for-the-badge&color=0077B5&labelColor=000000">
   </a>
-  <a href="https://www.linkedin.com/in/evavic44">
+  <a href="https://www.linkedin.com/in/victorekeawa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://codepen.io/evavic44"> 
@@ -24,29 +23,29 @@
   </a>
 </p>
 
-I am a Frontend developer 🧩 who is passionate about building ideas in open source communities. Currently learning JavaScript and maintaining open source projects. Working with technologies like HTML, CSS, Sass, JavaScript, React, Tailwind, BootStrap, Git & Github, Etc.
-Most of my time as a developer is spent on building projects, learning new things everyday or just playing some music with my guitar. 🎸
+I am a Frontend developer who is passionate about building great ideas and projects in communities. Currently advancing my JavaScript skills, participating in hackathons, and maintaining open source projects. Most of my time as a developer is spent on building projects, learning new things everyday or just playing some music with my guitar.
 
 ## Achievements 
 
 <table>
 <tr>
-<td align="center"><a href="https://eke.hashnode.dev/badges" title="Hashnode Hasura Hackathon"><img src="https://user-images.githubusercontent.com/62628408/169521670-1046aabe-7570-413e-a58d-4227bda3054f.png" width="90px"></a></td>
-<td align="center"><a href="https://google.com"><img src="https://user-images.githubusercontent.com/62628408/168408573-afac9024-904e-4331-9b48-a1fb71d61596.png" width="90px"></a></td>
-<td align="center"><a href="https://dev.to/eke"><img src="https://user-images.githubusercontent.com/62628408/168408907-89113177-bbde-4a97-95b6-8e942679ca60.png" width="90px"></a></td>
-<td align="center"><a href="https://dev.to/eke"><img src="https://user-images.githubusercontent.com/62628408/168408946-8b222b35-4732-4fc7-bc2b-5584c5aafbae.png" width="90px"></a></td>
-<td align="center"><a href="https://app.daily.dev/posts/LizSgodjG"><img src="https://user-images.githubusercontent.com/62628408/168409514-dc69ccd4-82df-4194-bf4d-cb49f4c9d250.png" width="90px"></a></td>
-<td align="center"><a href="/"><img src="https://user-images.githubusercontent.com/62628408/169523617-488114e4-717e-4ee9-834c-f69ff4589cf7.png" width="90px"></a></td>
-<td align="center"><a href="/"><img src="https://user-images.githubusercontent.com/62628408/168421180-9131d877-5556-4082-82fc-1d792f6320fa.png" width="90px"></a></td></a>
-</tr>
-
-<tr>
-<td align="center"><a href="https://aviyel.com/@victoreke" title="Early Adopter"><img src="https://user-images.githubusercontent.com/62628408/171622741-81ba6517-8dbd-4da1-ae30-f164e7e920b4.png" width="90px"></a></td></a>
-<td align="center"><a href="https://aviyel.com/@victoreke" title="Platform Contributor"><img src="https://user-images.githubusercontent.com/62628408/171622788-d410d6ea-43fd-4b10-ad79-416be9dad49a.png" width="90px"></a></td></a>
-<td align="center"><a href="https://aviyel.com/@victoreke" title="Open Source Contributor"><img src="https://user-images.githubusercontent.com/62628408/171622761-6430db9c-1f91-4093-8d17-ae51b09c7662.png" width="90px"></a></td></a>
-<td align="center"><a href="https://eke.hashnode.dev/badges" title="Talk of the Town"><img src="https://user-images.githubusercontent.com/62628408/172899535-a6597408-6960-47ae-9343-0ff6fb8645e5.png" width="90px"></a></td>
+<td align="center"><a href="https://eke.hashnode.dev/badges" title="Hashnode Hasura Hackathon"><img src="https://user-images.githubusercontent.com/62628408/169521670-1046aabe-7570-413e-a58d-4227bda3054f.png" width="80px"></a></td>
+<td align="center"><a href="https://google.com"><img src="https://user-images.githubusercontent.com/62628408/168408573-afac9024-904e-4331-9b48-a1fb71d61596.png" width="80px"></a></td>
+<td align="center"><a href="https://dev.to/eke"><img src="https://user-images.githubusercontent.com/62628408/168408907-89113177-bbde-4a97-95b6-8e942679ca60.png" width="80px"></a></td>
+<td align="center"><a href="https://dev.to/eke"><img src="https://user-images.githubusercontent.com/62628408/168408946-8b222b35-4732-4fc7-bc2b-5584c5aafbae.png" width="80px"></a></td>
+<td align="center"><a href="https://app.daily.dev/posts/LizSgodjG"><img src="https://user-images.githubusercontent.com/62628408/168409514-dc69ccd4-82df-4194-bf4d-cb49f4c9d250.png" width="70px"></a></td>
+<td align="center"><a href="/"><img src="https://user-images.githubusercontent.com/62628408/169523617-488114e4-717e-4ee9-834c-f69ff4589cf7.png" width="80px"></a></td>
+<td align="center"><a href="/"><img src="https://user-images.githubusercontent.com/62628408/168421180-9131d877-5556-4082-82fc-1d792f6320fa.png" width="80px"></a></td></a>
+<td align="center"><a href="https://aviyel.com/@victoreke" title="Early Adopter"><img src="https://user-images.githubusercontent.com/62628408/171622741-81ba6517-8dbd-4da1-ae30-f164e7e920b4.png" width="80px"></a></td></a>
+<td align="center"><a href="https://aviyel.com/@victoreke" title="Platform Contributor"><img src="https://user-images.githubusercontent.com/62628408/171622788-d410d6ea-43fd-4b10-ad79-416be9dad49a.png" width="80px"></a></td></a>
+<td align="center"><a href="https://aviyel.com/@victoreke" title="Open Source Contributor"><img src="https://user-images.githubusercontent.com/62628408/171622761-6430db9c-1f91-4093-8d17-ae51b09c7662.png" width="80px"></a></td></a>
+<td align="center"><a href="https://eke.hashnode.dev/badges" title="Talk of the Town"><img src="https://user-images.githubusercontent.com/62628408/172899535-a6597408-6960-47ae-9343-0ff6fb8645e5.png" width="80px"></a></td>
 </tr>
 </table>
+
+## Languages and Tools
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 <!-- Open source -->
 ## Open Source
@@ -102,23 +101,6 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 - [How to effectively maximize your day](https://eke.hashnode.dev/how-to-effectively-maximize-your-day)
 <!-- BLOG-POST-LIST:END -->
 
-
-## Languages and Tools
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=evavic44&background=0D1117&ring=6cd63e&fire=0d74e7&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&stroke=6cd63e&border=6cd63e&dates=6cd63e&sideLabels=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
-
-<p align="left"> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</p>
 <br>
 
 ## Recent GitHub Activity
