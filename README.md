@@ -106,11 +106,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#62](https://github.com/Evavic44/rocketmeme/issues/62) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-2. 🎉 Merged PR [#65](https://github.com/Evavic44/rocketmeme/pull/65) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-3. 🗣 Commented on [#65](https://github.com/Evavic44/rocketmeme/issues/65) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-4. 🗣 Commented on [#62](https://github.com/Evavic44/rocketmeme/issues/62) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-5. 🗣 Commented on [#93](https://github.com/Evavic44/portfolio-ideas/issues/93) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. 🎉 Merged PR [#66](https://github.com/Evavic44/rocketmeme/pull/66) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+2. 🗣 Commented on [#65](https://github.com/Evavic44/rocketmeme/issues/65) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+3. ❗️ Closed issue [#62](https://github.com/Evavic44/rocketmeme/issues/62) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+4. 🎉 Merged PR [#65](https://github.com/Evavic44/rocketmeme/pull/65) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+5. 🗣 Commented on [#65](https://github.com/Evavic44/rocketmeme/issues/65) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
 <!--END_SECTION:activity-->
 
 
