@@ -30,17 +30,17 @@ I am a Frontend developer who is passionate about building great ideas and proje
 
 <table>
 <tr>
-<td align="center"><a href="https://eke.hashnode.dev/badges" title="Hashnode Hasura Hackathon"><img src="https://user-images.githubusercontent.com/62628408/169521670-1046aabe-7570-413e-a58d-4227bda3054f.png" width="80px"></a></td>
+<td align="center"><a href="https://eke.hashnode.dev/badges" title="Hashnode Hasura Hackathon"><img src="https://user-images.githubusercontent.com/62628408/169521670-1046aabe-7570-413e-a58d-4227bda3054f.png" width="90px"></a></td>
+<td align="center"><a href="https://eke.hashnode.dev/badges" title="Talk of the Town"><img src="https://user-images.githubusercontent.com/62628408/172899535-a6597408-6960-47ae-9343-0ff6fb8645e5.png" width="80px"></a></td>
 <td align="center"><a href="https://google.com"><img src="https://user-images.githubusercontent.com/62628408/168408573-afac9024-904e-4331-9b48-a1fb71d61596.png" width="80px"></a></td>
-<td align="center"><a href="https://dev.to/eke"><img src="https://user-images.githubusercontent.com/62628408/168408907-89113177-bbde-4a97-95b6-8e942679ca60.png" width="80px"></a></td>
-<td align="center"><a href="https://dev.to/eke"><img src="https://user-images.githubusercontent.com/62628408/168408946-8b222b35-4732-4fc7-bc2b-5584c5aafbae.png" width="80px"></a></td>
+<td align="center"><a href="https://dev.to/eke" title="Hacktoberfest 2021"><img src="https://user-images.githubusercontent.com/62628408/168408907-89113177-bbde-4a97-95b6-8e942679ca60.png" width="80px"></a></td>
+<td align="center"><a href="https://dev.to/eke" title="One year club"><img src="https://user-images.githubusercontent.com/62628408/168408946-8b222b35-4732-4fc7-bc2b-5584c5aafbae.png" width="80px"></a></td>
+<td align="center"><a href="https://dev.to/eke" title="1 week community wellness"><img src="https://user-images.githubusercontent.com/62628408/180606429-3a042381-2ec1-48ab-bd99-f8aa3a11400f.png" width="60px"></a></td>
 <td align="center"><a href="https://app.daily.dev/posts/LizSgodjG"><img src="https://user-images.githubusercontent.com/62628408/168409514-dc69ccd4-82df-4194-bf4d-cb49f4c9d250.png" width="70px"></a></td>
-<td align="center"><a href="/"><img src="https://user-images.githubusercontent.com/62628408/169523617-488114e4-717e-4ee9-834c-f69ff4589cf7.png" width="80px"></a></td>
 <td align="center"><a href="/"><img src="https://user-images.githubusercontent.com/62628408/168421180-9131d877-5556-4082-82fc-1d792f6320fa.png" width="80px"></a></td></a>
 <td align="center"><a href="https://aviyel.com/@victoreke" title="Early Adopter"><img src="https://user-images.githubusercontent.com/62628408/171622741-81ba6517-8dbd-4da1-ae30-f164e7e920b4.png" width="80px"></a></td></a>
 <td align="center"><a href="https://aviyel.com/@victoreke" title="Platform Contributor"><img src="https://user-images.githubusercontent.com/62628408/171622788-d410d6ea-43fd-4b10-ad79-416be9dad49a.png" width="80px"></a></td></a>
 <td align="center"><a href="https://aviyel.com/@victoreke" title="Open Source Contributor"><img src="https://user-images.githubusercontent.com/62628408/171622761-6430db9c-1f91-4093-8d17-ae51b09c7662.png" width="80px"></a></td></a>
-<td align="center"><a href="https://eke.hashnode.dev/badges" title="Talk of the Town"><img src="https://user-images.githubusercontent.com/62628408/172899535-a6597408-6960-47ae-9343-0ff6fb8645e5.png" width="80px"></a></td>
 </tr>
 </table>
 
