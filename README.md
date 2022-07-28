@@ -106,11 +106,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9390](https://github.com/vitejs/vite/pull/9390) in [vitejs/vite](https://github.com/vitejs/vite)
-2. 🎉 Merged PR [#95](https://github.com/Evavic44/portfolio-ideas/pull/95) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-3. 🗣 Commented on [#3](https://github.com/SpiffGreen/remix-mongo/issues/3) in [SpiffGreen/remix-mongo](https://github.com/SpiffGreen/remix-mongo)
-4. 🗣 Commented on [#216](https://github.com/CommunityPro/support/issues/216) in [CommunityPro/support](https://github.com/CommunityPro/support)
-5. 🎉 Merged PR [#66](https://github.com/Evavic44/rocketmeme/pull/66) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+1. 🗣 Commented on [#8755](https://github.com/vitejs/vite/issues/8755) in [vitejs/vite](https://github.com/vitejs/vite)
+2. 💪 Opened PR [#9390](https://github.com/vitejs/vite/pull/9390) in [vitejs/vite](https://github.com/vitejs/vite)
+3. 🎉 Merged PR [#95](https://github.com/Evavic44/portfolio-ideas/pull/95) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+4. 🗣 Commented on [#3](https://github.com/SpiffGreen/remix-mongo/issues/3) in [SpiffGreen/remix-mongo](https://github.com/SpiffGreen/remix-mongo)
+5. 🗣 Commented on [#216](https://github.com/CommunityPro/support/issues/216) in [CommunityPro/support](https://github.com/CommunityPro/support)
 <!--END_SECTION:activity-->
 
 
