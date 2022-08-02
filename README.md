@@ -106,11 +106,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com/Evavic44/spekni/issues/83) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
-2. ❗️ Closed issue [#81](https://github.com/Evavic44/spekni/issues/81) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
-3. 🎉 Merged PR [#82](https://github.com/Evavic44/spekni/pull/82) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
-4. 🗣 Commented on [#81](https://github.com/Evavic44/spekni/issues/81) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
-5. ❗️ Closed issue [#69](https://github.com/Evavic44/spekni/issues/69) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
+1. ❗️ Opened issue [#86](https://github.com/Evavic44/spekni/issues/86) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
+2. ❗️ Opened issue [#85](https://github.com/Evavic44/spekni/issues/85) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
+3. 🗣 Commented on [#83](https://github.com/Evavic44/spekni/issues/83) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
+4. ❗️ Closed issue [#81](https://github.com/Evavic44/spekni/issues/81) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
+5. 🎉 Merged PR [#82](https://github.com/Evavic44/spekni/pull/82) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
 <!--END_SECTION:activity-->
 
 
