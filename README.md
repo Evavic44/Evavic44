@@ -106,11 +106,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#69](https://github.com/Evavic44/spekni/issues/69) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
-2. 🗣 Commented on [#223](https://github.com/CommunityPro/support/issues/223) in [CommunityPro/support](https://github.com/CommunityPro/support)
-3. 🗣 Commented on [#221](https://github.com/CommunityPro/support/issues/221) in [CommunityPro/support](https://github.com/CommunityPro/support)
-4. 🎉 Merged PR [#96](https://github.com/Evavic44/portfolio-ideas/pull/96) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-5. 🗣 Commented on [#8755](https://github.com/vitejs/vite/issues/8755) in [vitejs/vite](https://github.com/vitejs/vite)
+1. 🗣 Commented on [#81](https://github.com/Evavic44/spekni/issues/81) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
+2. ❗️ Closed issue [#69](https://github.com/Evavic44/spekni/issues/69) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
+3. 🗣 Commented on [#223](https://github.com/CommunityPro/support/issues/223) in [CommunityPro/support](https://github.com/CommunityPro/support)
+4. 🗣 Commented on [#221](https://github.com/CommunityPro/support/issues/221) in [CommunityPro/support](https://github.com/CommunityPro/support)
+5. 🎉 Merged PR [#96](https://github.com/Evavic44/portfolio-ideas/pull/96) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 <!--END_SECTION:activity-->
 
 
