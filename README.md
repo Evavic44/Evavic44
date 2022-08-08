@@ -106,11 +106,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#99](https://github.com/Evavic44/portfolio-ideas/pull/99) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-2. 🎉 Merged PR [#98](https://github.com/Evavic44/portfolio-ideas/pull/98) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-3. 🎉 Merged PR [#97](https://github.com/Evavic44/portfolio-ideas/pull/97) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-4. ❗️ Closed issue [#71](https://github.com/Evavic44/spekni/issues/71) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
-5. ❗️ Closed issue [#83](https://github.com/Evavic44/spekni/issues/83) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
+1. 🗣 Commented on [#92](https://github.com/CommunityPro/Practice-Contribution/issues/92) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
+2. 🎉 Merged PR [#91](https://github.com/CommunityPro/Practice-Contribution/pull/91) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
+3. 🎉 Merged PR [#99](https://github.com/Evavic44/portfolio-ideas/pull/99) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+4. 🎉 Merged PR [#98](https://github.com/Evavic44/portfolio-ideas/pull/98) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+5. 🎉 Merged PR [#97](https://github.com/Evavic44/portfolio-ideas/pull/97) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 <!--END_SECTION:activity-->
 
 
