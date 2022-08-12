@@ -106,11 +106,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#102](https://github.com/Evavic44/portfolio-ideas/pull/102) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-2. ❗️ Closed issue [#231](https://github.com/CommunityPro/support/issues/231) in [CommunityPro/support](https://github.com/CommunityPro/support)
-3. 🗣 Commented on [#231](https://github.com/CommunityPro/support/issues/231) in [CommunityPro/support](https://github.com/CommunityPro/support)
-4. ❗️ Closed issue [#233](https://github.com/CommunityPro/support/issues/233) in [CommunityPro/support](https://github.com/CommunityPro/support)
-5. 🗣 Commented on [#233](https://github.com/CommunityPro/support/issues/233) in [CommunityPro/support](https://github.com/CommunityPro/support)
+1. ❗️ Opened issue [#26](https://github.com/Evavic44/Transformed-Minds/issues/26) in [Evavic44/Transformed-Minds](https://github.com/Evavic44/Transformed-Minds)
+2. 🎉 Merged PR [#102](https://github.com/Evavic44/portfolio-ideas/pull/102) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+3. ❗️ Closed issue [#231](https://github.com/CommunityPro/support/issues/231) in [CommunityPro/support](https://github.com/CommunityPro/support)
+4. 🗣 Commented on [#231](https://github.com/CommunityPro/support/issues/231) in [CommunityPro/support](https://github.com/CommunityPro/support)
+5. ❗️ Closed issue [#233](https://github.com/CommunityPro/support/issues/233) in [CommunityPro/support](https://github.com/CommunityPro/support)
 <!--END_SECTION:activity-->
 
 
