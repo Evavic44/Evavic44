@@ -13,7 +13,7 @@
 ## About Me
 
 <p align="left">
-  <a href="https://www.twitter.com/evavic44" target="_blank" rel="noreferrer">
+  <a href="https://www.twitter.com/victorekea" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitter/follow/victorekea?logo=twitter&style=for-the-badge&color=0077B5&labelColor=000000">
   </a>
   <a href="https://www.linkedin.com/in/victorekeawa">
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-I am a Frontend developer who is passionate about building great ideas and projects in communities. Currently advancing my JavaScript skills, participating in hackathons, and maintaining open source projects. Most of my time as a developer is spent on building projects, learning new things everyday or just playing some music with my guitar.
+I am a Frontend developer who is passionate about building great ideas and projects in communities. Currently hacking on JavaScript and NextJS, participating in hackathons, and maintaining open source projects. Most of my time as a developer is spent on building projects, learning new things everyday or just playing some music with my guitar.
 
 ## Achievements 
 
@@ -45,7 +45,7 @@ I am a Frontend developer who is passionate about building great ideas and proje
 </table>
 
 ## Languages and Tools
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
 <!-- Open source -->
@@ -55,24 +55,17 @@ I am a Frontend developer who is passionate about building great ideas and proje
 <img src="https://user-images.githubusercontent.com/62628408/157833640-a41679f4-f66e-4d40-adda-ef6a4dbf1e3c.svg">
 </a>
 
-Maintaining and building communitypro, an awesome community of over 80+ developers 😇 who love to see each other grow, learn and build projects together. Our best project so far: 🤩 [Practice-contribution](https://github.com/CommunityPro/Practice-Contribution) has helped a lot of members contribute to open source for the first time. 🤍 We are starting our next project very soon in React and we love seeing members be a part of this project. 🤝🏽 [Join us here](https://github.com/CommunityPro/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+Community+Organization). <br>
-
-<div align="left">
-<a href="https://github.com/CommunityPro/Practice-Contribution"><img src="https://github-readme-stats.vercel.app/api/pin/?username=communitypro&repo=practice-contribution&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="practice contribution"></a>
-<a href="https://github.com/CommunityPro/portfolio-html"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CommunityPro&repo=portfolio-html&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="portfolio html"></a>
-</div>
+- Building [communitypro](https://github.com/CommunityPro), an awesome community of over 100+ developers on GitHub 😇
+- Contributing to [vitejs](https://github.com/vitejs/) docs.
+- Maintaining [Portfolio Ideas](https://github.com/evavic44/portfolio-ideas) <br>
 
 <!-- Work -->
 ## Work 
-Working with Aviyel growth, design & product teams to help bridge the gap with open source content around some of the fastest growing projects. Aviyel is a community driven monetization platform for Open Source Projects. <a href="https://aviyel.com/@victoreke">Aviyel</a>
+I love working on creative ideas, transforming UI to code, and maintainig projects on GitHub. have any opportunities for me, kindly send  me an email.
 
-<!-- Aviyel -->
-<table>
-<tr>
-<td align="center"><a href="https://aviyel.com/events/328/frontend-development-basics"><img src="https://aviyel.com/assets/uploads/files/1646324457435-image-7-resized.png" width="250px"><br><sub><b>Frontend Basics</b></sub></a></td>
-<td align="center"><a href="https://aviyel.com/events/222/integrate-live-chat-in-your-wordpress-shopify-and-webflow-site-using-chatwoot"><img src="https://aviyel.com/assets/uploads/files/1638970725097-event-announcement-8-resized.png" width="250px"><br><sub><b>Integrating live chat</b></sub></a></td>
-</tr>
-</table>
+- Previosuly working with <a href="https://aviyel.com/@victoreke">Aviyel</a> growth, design & product teams to help bridge the gap with open source content around some of the fastest growing projects.
+- Freelance projects and contracts
+
 
 <!-- Featured Projects -->
 ## Featured Projects
@@ -101,8 +94,6 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 - [How to interact with components and queries using custom vanilla JavaScript code in ToolJet](https://eke.hashnode.dev/how-to-interact-with-components-and-queries-using-custom-vanilla-javascript-code-in-tooljet)
 - [Portfolio Ideas - An open-source repository for inspiration](https://eke.hashnode.dev/portfolio-ideas-an-open-source-repository-for-inspiration)
 <!-- BLOG-POST-LIST:END -->
-
-<br>
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
