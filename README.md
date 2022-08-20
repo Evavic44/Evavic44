@@ -97,11 +97,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#125](https://github.com/CommunityPro/portfolio-html/issues/125) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
-2. 🎉 Merged PR [#126](https://github.com/CommunityPro/portfolio-html/pull/126) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
-3. ❗️ Closed issue [#241](https://github.com/CommunityPro/support/issues/241) in [CommunityPro/support](https://github.com/CommunityPro/support)
-4. 🗣 Commented on [#241](https://github.com/CommunityPro/support/issues/241) in [CommunityPro/support](https://github.com/CommunityPro/support)
-5. 🎉 Merged PR [#95](https://github.com/CommunityPro/Practice-Contribution/pull/95) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
+1. 💪 Opened PR [#93](https://github.com/Pradumnasaraf/Wish-Eddie/pull/93) in [Pradumnasaraf/Wish-Eddie](https://github.com/Pradumnasaraf/Wish-Eddie)
+2. 🎉 Merged PR [#1](https://github.com/Evavic44/Wish-Eddie/pull/1) in [Evavic44/Wish-Eddie](https://github.com/Evavic44/Wish-Eddie)
+3. 💪 Opened PR [#1](https://github.com/Evavic44/Wish-Eddie/pull/1) in [Evavic44/Wish-Eddie](https://github.com/Evavic44/Wish-Eddie)
+4. ❗️ Closed issue [#125](https://github.com/CommunityPro/portfolio-html/issues/125) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
+5. 🎉 Merged PR [#126](https://github.com/CommunityPro/portfolio-html/pull/126) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
 <!--END_SECTION:activity-->
 
 
