@@ -89,10 +89,10 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 <a href="https://app.daily.dev/Eke"><img src="https://img.shields.io/badge/daily-profile-151618?style=for-the-badge"></a>
 
 <!-- BLOG-POST-LIST:START -->
+- [How open source can boost your career as a developer?](https://eke.hashnode.dev/how-open-source-can-boost-your-career-as-a-developer)
 - [Spekni - A recognition platform built for developer endorsements](https://eke.hashnode.dev/spekni-a-recognition-platform-built-for-developer-endorsements)
 - [How to create a custom 404 page in NextJS](https://eke.hashnode.dev/how-to-create-a-custom-404-page-in-nextjs)
 - [How to interact with components and queries using custom vanilla JavaScript code in ToolJet](https://eke.hashnode.dev/how-to-interact-with-components-and-queries-using-custom-vanilla-javascript-code-in-tooljet)
-- [Portfolio Ideas - An open-source repository for inspiration](https://eke.hashnode.dev/portfolio-ideas-an-open-source-repository-for-inspiration)
 <!-- BLOG-POST-LIST:END -->
 
 ## Recent GitHub Activity
