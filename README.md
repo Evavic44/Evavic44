@@ -97,11 +97,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com/Evavic44/spekni/issues/72) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
-2. ❗️ Opened issue [#2](https://github.com/CharlesCreativeContent/TheHunt/issues/2) in [CharlesCreativeContent/TheHunt](https://github.com/CharlesCreativeContent/TheHunt)
-3. 🗣 Commented on [#29](https://github.com/Evavic44/portfolio-ideas/issues/29) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-4. 🎉 Merged PR [#112](https://github.com/Evavic44/portfolio-ideas/pull/112) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-5. ❗️ Closed issue [#108](https://github.com/Evavic44/portfolio-ideas/issues/108) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. 🗣 Commented on [#97](https://github.com/CommunityPro/Practice-Contribution/issues/97) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
+2. 🗣 Commented on [#72](https://github.com/Evavic44/spekni/issues/72) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
+3. ❗️ Opened issue [#2](https://github.com/CharlesCreativeContent/TheHunt/issues/2) in [CharlesCreativeContent/TheHunt](https://github.com/CharlesCreativeContent/TheHunt)
+4. 🗣 Commented on [#29](https://github.com/Evavic44/portfolio-ideas/issues/29) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+5. 🎉 Merged PR [#112](https://github.com/Evavic44/portfolio-ideas/pull/112) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 <!--END_SECTION:activity-->
 
 
