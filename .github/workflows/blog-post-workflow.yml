@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://dev.to/feed/https://dev.to/eke, https://eke.hashnode.dev/rss.xml"
+                feed_list: "https://dev.to/feed/https://dev.to/eke, https://eke.hashnode.dev/rss.xml, https://feedly.com/i/subscription/feed/https://www.freecodecamp.org/news/author/victoreke/rss/"
