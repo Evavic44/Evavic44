@@ -97,11 +97,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/CommunityPro/communitypro.org/issues/5) in [CommunityPro/communitypro.org](https://github.com/CommunityPro/communitypro.org)
-2. 🎉 Merged PR [#116](https://github.com/Evavic44/portfolio-ideas/pull/116) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-3. ❗️ Opened issue [#6](https://github.com/CommunityPro/communitypro.org/issues/6) in [CommunityPro/communitypro.org](https://github.com/CommunityPro/communitypro.org)
-4. ❗️ Opened issue [#5](https://github.com/CommunityPro/communitypro.org/issues/5) in [CommunityPro/communitypro.org](https://github.com/CommunityPro/communitypro.org)
-5. ❗️ Opened issue [#4](https://github.com/CommunityPro/communitypro.org/issues/4) in [CommunityPro/communitypro.org](https://github.com/CommunityPro/communitypro.org)
+1. 🎉 Merged PR [#12](https://github.com/Evavic44/Evavic44/pull/12) in [Evavic44/Evavic44](https://github.com/Evavic44/Evavic44)
+2. 💪 Opened PR [#12](https://github.com/Evavic44/Evavic44/pull/12) in [Evavic44/Evavic44](https://github.com/Evavic44/Evavic44)
+3. 🗣 Commented on [#5](https://github.com/CommunityPro/communitypro.org/issues/5) in [CommunityPro/communitypro.org](https://github.com/CommunityPro/communitypro.org)
+4. 🎉 Merged PR [#116](https://github.com/Evavic44/portfolio-ideas/pull/116) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+5. ❗️ Opened issue [#6](https://github.com/CommunityPro/communitypro.org/issues/6) in [CommunityPro/communitypro.org](https://github.com/CommunityPro/communitypro.org)
 <!--END_SECTION:activity-->
 
 
