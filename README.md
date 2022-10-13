@@ -61,7 +61,7 @@ I am a Frontend developer who is passionate about building great ideas and proje
 
 <!-- Work -->
 ## Work 
-I love working on creative ideas, transforming UI to code, and maintainig projects on GitHub. have any opportunities for me, kindly send  me an email.
+I love working on creative ideas, transforming UI to code, and maintainig projects on GitHub. Have any opportunities for me, kindly send  me an email.
 
 - Previosuly working with <a href="https://aviyel.com/@victoreke">Aviyel</a> growth, design & product teams to help bridge the gap with open source content around some of the fastest growing projects.
 - Freelance projects and contracts
