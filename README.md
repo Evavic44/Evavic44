@@ -64,7 +64,7 @@ I am a Frontend developer who is passionate about building great ideas and proje
 I love working on creative ideas, transforming UI to code, and maintainig projects on GitHub. Have any opportunities for me, kindly send  me an email.
 
 - Previosuly working with <a href="https://aviyel.com/@victoreke">Aviyel</a> growth, design & product teams to help bridge the gap with open source content around some of the fastest growing projects.
-- Freelance projects and contracts
+- Freelance projects and contracts.
 
 
 <!-- Featured Projects -->
@@ -106,6 +106,6 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 
 ## Support
-if you love what I do and would like to support me, consider buying me a coffee 😊 <br>
+if you love what I do and would like to support me, consider buying me a coffee. 😊 <br>
 
 <a href="https://www.buymeacoffee.com/evavic44"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
