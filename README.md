@@ -97,11 +97,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/Evavic44/Learn-JavaScript/pull/21) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
-2. 🗣 Commented on [#13](https://github.com/Evavic44/Evavic44/issues/13) in [Evavic44/Evavic44](https://github.com/Evavic44/Evavic44)
-3. 💪 Opened PR [#283](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/283) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
-4. 💪 Opened PR [#21](https://github.com/Evavic44/Learn-JavaScript/pull/21) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
-5. 🎉 Merged PR [#148](https://github.com/Evavic44/portfolio-ideas/pull/148) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. ❗️ Closed issue [#13](https://github.com/Evavic44/Evavic44/issues/13) in [Evavic44/Evavic44](https://github.com/Evavic44/Evavic44)
+2. 🎉 Merged PR [#14](https://github.com/Evavic44/Evavic44/pull/14) in [Evavic44/Evavic44](https://github.com/Evavic44/Evavic44)
+3. 💪 Opened PR [#358](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/358) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
+4. 🎉 Merged PR [#21](https://github.com/Evavic44/Learn-JavaScript/pull/21) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
+5. 🗣 Commented on [#13](https://github.com/Evavic44/Evavic44/issues/13) in [Evavic44/Evavic44](https://github.com/Evavic44/Evavic44)
 <!--END_SECTION:activity-->
 
 
