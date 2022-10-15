@@ -97,11 +97,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#381](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/381) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
-2. 🎉 Merged PR [#151](https://github.com/Evavic44/portfolio-ideas/pull/151) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-3. 🗣 Commented on [#358](https://github.com/freeCodeCamp/Developer_Quiz_Site/issues/358) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
-4. 🎉 Merged PR [#150](https://github.com/Evavic44/portfolio-ideas/pull/150) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-5. ❗️ Closed issue [#13](https://github.com/Evavic44/Evavic44/issues/13) in [Evavic44/Evavic44](https://github.com/Evavic44/Evavic44)
+1. 🗣 Commented on [#381](https://github.com/freeCodeCamp/Developer_Quiz_Site/issues/381) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
+2. 💪 Opened PR [#381](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/381) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
+3. 🎉 Merged PR [#151](https://github.com/Evavic44/portfolio-ideas/pull/151) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+4. 🗣 Commented on [#358](https://github.com/freeCodeCamp/Developer_Quiz_Site/issues/358) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
+5. 🎉 Merged PR [#150](https://github.com/Evavic44/portfolio-ideas/pull/150) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 <!--END_SECTION:activity-->
 
 
