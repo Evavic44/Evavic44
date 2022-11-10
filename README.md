@@ -4,7 +4,7 @@
 
   
 <a href="https://victoreke.com">
-  <img src="https://user-images.githubusercontent.com/62628408/157836760-fcd8135e-7c17-4063-ad43-db139a9160db.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/62628408/201165752-abcdd7c0-8447-415e-80f2-315d3cb04e84.png" width="100%">
 </a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&duration=5400&color=5CB635&lines=Frontend+developer+building+ideas;Open+source)](https://git.io/typing-svg)
