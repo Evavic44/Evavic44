@@ -100,11 +100,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#127](https://github.com/CommunityPro/portfolio-html/issues/127) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
-2. 🎉 Merged PR [#128](https://github.com/CommunityPro/portfolio-html/pull/128) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
-3. ❌ Closed PR [#190](https://github.com/Evavic44/portfolio-ideas/pull/190) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-4. ❌ Closed PR [#189](https://github.com/Evavic44/portfolio-ideas/pull/189) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-5. 🗣 Commented on [#127](https://github.com/CommunityPro/portfolio-html/issues/127) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
+1. 🎉 Merged PR [#191](https://github.com/Evavic44/portfolio-ideas/pull/191) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. ❗️ Closed issue [#127](https://github.com/CommunityPro/portfolio-html/issues/127) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
+3. 🎉 Merged PR [#128](https://github.com/CommunityPro/portfolio-html/pull/128) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
+4. ❌ Closed PR [#190](https://github.com/Evavic44/portfolio-ideas/pull/190) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+5. ❌ Closed PR [#189](https://github.com/Evavic44/portfolio-ideas/pull/189) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 <!--END_SECTION:activity-->
 
 
