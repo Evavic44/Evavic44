@@ -24,7 +24,11 @@
   </a>
 </p>
 
-I am a Frontend developer who is passionate about building great ideas and projects in communities. Currently hacking on JavaScript and NextJS, participating in hackathons, and maintaining open source projects. Most of my time as a developer is spent on building projects, learning new things everyday or just playing some music with my guitar.
+Hello human, <br>
+
+My name is Victor Eke. I'm a Frontend developer who loves building ideas and projects. I place a deep interest and actively contribute to the open soure ecosystem. Recently, I've picked up a passion in producing technical articles and creating content that are truly beneficial to other developers. You can find some of my works on [freeCodeCamp](https://freecodecamp.org/news/author/victoreke/) and [Hashnode](https://eke.hashnode.dev).
+
+As a highly sociable and energetic person, feel free to DM or ask me any question anywhere I exist on the internet. Just don't say "Hi", only. :)
 
 ## Achievements 
 
@@ -58,13 +62,13 @@ I am a Frontend developer who is passionate about building great ideas and proje
 <img src="https://user-images.githubusercontent.com/62628408/157833640-a41679f4-f66e-4d40-adda-ef6a4dbf1e3c.svg">
 </a>
 
-- Building [communitypro](https://github.com/CommunityPro), an awesome community of over 100+ developers on GitHub 😇
+- Building [communitypro](https://github.com/CommunityPro), an awesome community of over 200+ developers on GitHub
 - Contributing to [vitejs](https://github.com/vitejs/) docs.
 - Maintaining [Portfolio Ideas](https://github.com/evavic44/portfolio-ideas) <br>
 
 <!-- Work -->
 ## Work 
-I love working on creative ideas, transforming UI to code, and maintainig projects on GitHub. Have any opportunities for me, kindly send  me an email.
+I love working on creative ideas, transforming UI to code, and maintainig projects on GitHub. Have any opportunities for me, kindly send me an email.
 
 - Previosuly working with <a href="https://aviyel.com/@victoreke">Aviyel</a> growth, design & product teams to help bridge the gap with open source content around some of the fastest growing projects.
 - Freelance projects and contracts.
@@ -72,12 +76,12 @@ I love working on creative ideas, transforming UI to code, and maintainig projec
 
 <!-- Featured Projects -->
 ## Featured Projects
-As a huge fan of open source, all my personal projects live on GitHub and Codepen. 😁 I have built over 20+ projects but there are some that I believe are worth mentioning:
+As a huge fan of open source, all my personal projects live on GitHub and Codepen. I have built over 20+ projects but there are some that I believe are worth mentioning:
 
 <div align="left">
   <!--  Rocketmeme   -->
   <a href="https://github.com/Evavic44/rocketmeme"><img src="https://github-readme-stats.vercel.app/api/pin/?username=evavic44&repo=rocketmeme&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Rocketmeme"></a>
-  <!--  Hashnnode Clone   -->
+  <!--  Hashnode Clone   -->
   <a href="https://github.com/Evavic44/hashnode-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=evavic44&repo=hashnode-clone&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Hashnode Clone"></a>
   <!--  Portfolio Website   -->
   <a href="https://github.com/Evavic44/Eke"><img src="https://github-readme-stats.vercel.app/api/pin/?username=evavic44&repo=eke&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Portfolio website"></a>
