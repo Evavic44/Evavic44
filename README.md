@@ -11,24 +11,21 @@
 
 <!-- About Me -->
 ## About Me
+My name is Victor Eke. I'm a Frontend developer who loves building ideas and projects. I place a deep interest and actively contribute to the open source ecosystem. Recently, I've picked up a passion for producing technical articles and creating content that are truly beneficial to other developers. You can find some of my works on [freeCodeCamp](https://freecodecamp.org/news/author/victoreke/) and [Hashnode](https://eke.hashnode.dev).
+
+I'm highly sociable, so feel free to DM or ask me any question anywhere I exist on the internet. Just don't say "Hi", alone. :)
 
 <p align="left">
   <a href="https://www.twitter.com/victorekea" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/victorekea?logo=twitter&style=for-the-badge&color=0077B5&labelColor=000000">
-  </a>
+    Twitter
+  </a> &nbsp; • &nbsp;
   <a href="https://www.linkedin.com/in/victorekeawa">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+    LinkedIn
+  </a> &nbsp; • &nbsp;
   <a href="https://codepen.io/evavic44"> 
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
+    Codepen
   </a>
 </p>
-
-Hello human, <br>
-
-My name is Victor Eke. I'm a Frontend developer who loves building ideas and projects. I place a deep interest and actively contribute to the open soure ecosystem. Recently, I've picked up a passion in producing technical articles and creating content that are truly beneficial to other developers. You can find some of my works on [freeCodeCamp](https://freecodecamp.org/news/author/victoreke/) and [Hashnode](https://eke.hashnode.dev).
-
-As a highly sociable and energetic person, feel free to DM or ask me any question anywhere I exist on the internet. Just don't say "Hi", only. :)
 
 ## Achievements 
 
@@ -57,11 +54,6 @@ As a highly sociable and energetic person, feel free to DM or ask me any questio
 
 <!-- Open source -->
 ## Open Source
-<a href="https://github.com/CommunityPro" align="left">
-<img src="https://forthebadge.com/images/badges/powered-by-overtime.svg">
-<img src="https://user-images.githubusercontent.com/62628408/157833640-a41679f4-f66e-4d40-adda-ef6a4dbf1e3c.svg">
-</a>
-
 - Building [communitypro](https://github.com/CommunityPro), an awesome community of over 200+ developers on GitHub
 - Contributing to [vitejs](https://github.com/vitejs/) docs.
 - Maintaining [Portfolio Ideas](https://github.com/evavic44/portfolio-ideas) <br>
@@ -113,6 +105,6 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 
 ## Support
-if you love what I do and would like to support me, consider buying me a coffee. 😊 <br>
+If you love what I do and would like to support me, consider buying me a coffee. 😊 <br>
 
 <a href="https://www.buymeacoffee.com/evavic44"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
