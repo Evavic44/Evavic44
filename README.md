@@ -59,8 +59,12 @@ I'm highly sociable, so feel free to DM or ask me any question anywhere I exist 
 - Maintaining [Portfolio Ideas](https://github.com/evavic44/portfolio-ideas) <br>
 
 <!-- Work -->
-## Work 
-I love working on creative ideas, transforming UI to code, and maintainig projects on GitHub. Have any opportunities for me, kindly send me an email.
+## Work / Skills
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,sass,angular,vite,nextjs,css,gitlab,markdown,github,tailwind,figma,git,powershell&theme=dark)](https://skillicons.dev)
+
+I love working on creative ideas that solves real world problems, transforming UI design to picture perfect, reusable code, maintainig useful projects on GitHub, and sometimes, produce high quality technical articles to help other developers. 
+
+If you have any job or freelance opportunities for me, kindly send me an <a href="https://mailto:evavic44@gmail.com">email</a>.
 
 - Previosuly working with <a href="https://aviyel.com/@victoreke">Aviyel</a> growth, design & product teams to help bridge the gap with open source content around some of the fastest growing projects.
 - Freelance projects and contracts.
