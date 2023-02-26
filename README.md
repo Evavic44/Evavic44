@@ -15,7 +15,7 @@ My name is Victor Eke. I'm a Frontend developer who loves building ideas and pro
 
 I'm highly sociable, so feel free to DM or ask me any question anywhere I exist on the internet. Just don't say "Hi", alone. :)
 
-<a href="https://www.codewars.com/users/victoreke"><img src="https://www.codewars.com/users/victoreke/badges/large" alt="codewars badge"></a>
+<a href="https://www.codewars.com/users/victoreke"><img src="https://www.codewars.com/users/victoreke/badges/micro" alt="codewars badge"></a>
 
 ## Achievements 
 
