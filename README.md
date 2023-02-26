@@ -15,17 +15,7 @@ My name is Victor Eke. I'm a Frontend developer who loves building ideas and pro
 
 I'm highly sociable, so feel free to DM or ask me any question anywhere I exist on the internet. Just don't say "Hi", alone. :)
 
-<p align="left">
-  <a href="https://www.twitter.com/victorekea" target="_blank" rel="noreferrer">
-    Twitter
-  </a> &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/victorekeawa">
-    LinkedIn
-  </a> &nbsp; • &nbsp;
-  <a href="https://codepen.io/evavic44"> 
-    Codepen
-  </a>
-</p>
+<a href="https://www.codewars.com/users/victoreke"><img src="https://www.codewars.com/users/victoreke/badges/large" alt="codewars badge"></a>
 
 ## Achievements 
 
