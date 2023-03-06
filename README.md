@@ -90,7 +90,7 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. ❌ Closed PR [#109](https://github.com/CommunityPro/Practice-Contribution/pull/109) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
 2. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 3. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 4. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
