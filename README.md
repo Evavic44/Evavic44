@@ -90,11 +90,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-2. ❗️ Closed issue [#40](https://github.com/Evavic44/rocketmeme/issues/40) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-3. ❗️ Closed issue [#19](https://github.com/Evavic44/spekni/issues/19) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
-4. ❗️ Closed issue [#55](https://github.com/Evavic44/spekni/issues/55) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
-5. ❗️ Closed issue [#26](https://github.com/Evavic44/Transformed-Minds/issues/26) in [Evavic44/Transformed-Minds](https://github.com/Evavic44/Transformed-Minds)
+1. 🗣 Commented on [#247](https://github.com/Evavic44/portfolio-ideas/issues/247) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+3. ❗️ Closed issue [#40](https://github.com/Evavic44/rocketmeme/issues/40) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+4. ❗️ Closed issue [#19](https://github.com/Evavic44/spekni/issues/19) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
+5. ❗️ Closed issue [#55](https://github.com/Evavic44/spekni/issues/55) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
 <!--END_SECTION:activity-->
 
 
