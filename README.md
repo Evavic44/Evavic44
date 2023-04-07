@@ -90,11 +90,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2201](https://github.com/vuejs/vitepress/issues/2201) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
-2. 🗣 Commented on [#3](https://github.com/Evavic44/adocs/issues/3) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
-3. 🎉 Merged PR [#2](https://github.com/Evavic44/adocs/pull/2) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
-4. 🗣 Commented on [#3](https://github.com/Evavic44/adocs/issues/3) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
-5. 🎉 Merged PR [#261](https://github.com/Evavic44/portfolio-ideas/pull/261) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. 🗣 Commented on [#2201](https://github.com/vuejs/vitepress/issues/2201) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
+2. ❗️ Opened issue [#2201](https://github.com/vuejs/vitepress/issues/2201) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
+3. 🗣 Commented on [#3](https://github.com/Evavic44/adocs/issues/3) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
+4. 🎉 Merged PR [#2](https://github.com/Evavic44/adocs/pull/2) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
+5. 🗣 Commented on [#3](https://github.com/Evavic44/adocs/issues/3) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
 <!--END_SECTION:activity-->
 
 
