@@ -90,11 +90,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#267](https://github.com/Evavic44/portfolio-ideas/issues/267) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-2. 🗣 Commented on [#2201](https://github.com/vuejs/vitepress/issues/2201) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
-3. ❗️ Opened issue [#2201](https://github.com/vuejs/vitepress/issues/2201) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
-4. 🗣 Commented on [#3](https://github.com/Evavic44/adocs/issues/3) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
-5. 🎉 Merged PR [#2](https://github.com/Evavic44/adocs/pull/2) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
+1. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+3. ❗️ Opened issue [#267](https://github.com/Evavic44/portfolio-ideas/issues/267) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+4. 🗣 Commented on [#2201](https://github.com/vuejs/vitepress/issues/2201) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
+5. ❗️ Opened issue [#2201](https://github.com/vuejs/vitepress/issues/2201) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
 <!--END_SECTION:activity-->
 
 
