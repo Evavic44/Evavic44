@@ -90,11 +90,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/akoskm/vite-react-tailwindcss-browser-extension-simple/pull/4) in [akoskm/vite-react-tailwindcss-browser-extension-simple](https://github.com/akoskm/vite-react-tailwindcss-browser-extension-simple)
-2. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. 🗣 Commented on [#4](https://github.com/akoskm/vite-react-tailwindcss-browser-extension-simple/issues/4) in [akoskm/vite-react-tailwindcss-browser-extension-simple](https://github.com/akoskm/vite-react-tailwindcss-browser-extension-simple)
+2. 💪 Opened PR [#4](https://github.com/akoskm/vite-react-tailwindcss-browser-extension-simple/pull/4) in [akoskm/vite-react-tailwindcss-browser-extension-simple](https://github.com/akoskm/vite-react-tailwindcss-browser-extension-simple)
 3. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-4. ❗️ Opened issue [#267](https://github.com/Evavic44/portfolio-ideas/issues/267) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-5. 🗣 Commented on [#2201](https://github.com/vuejs/vitepress/issues/2201) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
+4. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+5. ❗️ Opened issue [#267](https://github.com/Evavic44/portfolio-ideas/issues/267) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 <!--END_SECTION:activity-->
 
 
