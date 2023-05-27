@@ -90,11 +90,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#114](https://github.com/CommunityPro/Practice-Contribution/pull/114) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
-2. ❗️ Closed issue [#273](https://github.com/Evavic44/portfolio-ideas/issues/273) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-3. 🎉 Merged PR [#274](https://github.com/Evavic44/portfolio-ideas/pull/274) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-4. 🗣 Commented on [#274](https://github.com/Evavic44/portfolio-ideas/issues/274) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-5. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. 🎉 Merged PR [#134](https://github.com/CommunityPro/portfolio-html/pull/134) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
+2. ❗️ Closed issue [#4](https://github.com/CommunityPro/communitypro.org/issues/4) in [CommunityPro/communitypro.org](https://github.com/CommunityPro/communitypro.org)
+3. 🗣 Commented on [#4](https://github.com/CommunityPro/communitypro.org/issues/4) in [CommunityPro/communitypro.org](https://github.com/CommunityPro/communitypro.org)
+4. 🗣 Commented on [#6](https://github.com/CommunityPro/communitypro.org/issues/6) in [CommunityPro/communitypro.org](https://github.com/CommunityPro/communitypro.org)
+5. ❌ Closed PR [#135](https://github.com/CommunityPro/portfolio-html/pull/135) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
 <!--END_SECTION:activity-->
 
 
