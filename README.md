@@ -92,7 +92,7 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#136](https://github.com/CommunityPro/portfolio-html/issues/136) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
 2. ❌ Closed PR [#136](https://github.com/CommunityPro/portfolio-html/pull/136) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
-3. ❗️ Closed issue [#137](https://github.com/CommunityPro/portfolio-html/issues/137) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
+3. 🔒 Closed issue [#137](https://github.com/CommunityPro/portfolio-html/issues/137) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
 4. 🗣 Commented on [#137](https://github.com/CommunityPro/portfolio-html/issues/137) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
 5. 🎉 Merged PR [#134](https://github.com/CommunityPro/portfolio-html/pull/134) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
 <!--END_SECTION:activity-->
