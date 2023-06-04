@@ -90,11 +90,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Evavic44/responsive-navbar-with-dropdown/pull/3) in [Evavic44/responsive-navbar-with-dropdown](https://github.com/Evavic44/responsive-navbar-with-dropdown)
-2. 🗣 Commented on [#2](https://github.com/Evavic44/responsive-navbar-with-dropdown/issues/2) in [Evavic44/responsive-navbar-with-dropdown](https://github.com/Evavic44/responsive-navbar-with-dropdown)
-3. 🗣 Commented on [#136](https://github.com/CommunityPro/portfolio-html/issues/136) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
-4. ❌ Closed PR [#136](https://github.com/CommunityPro/portfolio-html/pull/136) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
-5. 🔒 Closed issue [#137](https://github.com/CommunityPro/portfolio-html/issues/137) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
+1. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+3. 🎉 Merged PR [#3](https://github.com/Evavic44/responsive-navbar-with-dropdown/pull/3) in [Evavic44/responsive-navbar-with-dropdown](https://github.com/Evavic44/responsive-navbar-with-dropdown)
+4. 🗣 Commented on [#2](https://github.com/Evavic44/responsive-navbar-with-dropdown/issues/2) in [Evavic44/responsive-navbar-with-dropdown](https://github.com/Evavic44/responsive-navbar-with-dropdown)
+5. 🗣 Commented on [#136](https://github.com/CommunityPro/portfolio-html/issues/136) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
 <!--END_SECTION:activity-->
 
 
