@@ -90,11 +90,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Evavic44/sanity-template-nextjs-clean/pull/1) in [Evavic44/sanity-template-nextjs-clean](https://github.com/Evavic44/sanity-template-nextjs-clean)
-2. 💪 Opened PR [#25](https://github.com/sanity-io/sanity-template-nextjs-clean/pull/25) in [sanity-io/sanity-template-nextjs-clean](https://github.com/sanity-io/sanity-template-nextjs-clean)
-3. 💪 Opened PR [#1](https://github.com/Evavic44/sanity-template-nextjs-clean/pull/1) in [Evavic44/sanity-template-nextjs-clean](https://github.com/Evavic44/sanity-template-nextjs-clean)
-4. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-5. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. 🎉 Merged PR [#23](https://github.com/Evavic44/Learn-JavaScript/pull/23) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
+2. ❌ Closed PR [#1](https://github.com/Evavic44/nextjs-custom-404/pull/1) in [Evavic44/nextjs-custom-404](https://github.com/Evavic44/nextjs-custom-404)
+3. ❌ Closed PR [#23](https://github.com/Evavic44/Hotel-Zeitaku/pull/23) in [Evavic44/Hotel-Zeitaku](https://github.com/Evavic44/Hotel-Zeitaku)
+4. 🎉 Merged PR [#5](https://github.com/Evavic44/hashnode-clone/pull/5) in [Evavic44/hashnode-clone](https://github.com/Evavic44/hashnode-clone)
+5. 🎉 Merged PR [#16](https://github.com/Evavic44/Evavic44/pull/16) in [Evavic44/Evavic44](https://github.com/Evavic44/Evavic44)
 <!--END_SECTION:activity-->
 
 
