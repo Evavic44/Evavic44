@@ -90,11 +90,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/Evavic44/Learn-JavaScript/pull/23) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
-2. ❌ Closed PR [#1](https://github.com/Evavic44/nextjs-custom-404/pull/1) in [Evavic44/nextjs-custom-404](https://github.com/Evavic44/nextjs-custom-404)
-3. ❌ Closed PR [#23](https://github.com/Evavic44/Hotel-Zeitaku/pull/23) in [Evavic44/Hotel-Zeitaku](https://github.com/Evavic44/Hotel-Zeitaku)
-4. 🎉 Merged PR [#5](https://github.com/Evavic44/hashnode-clone/pull/5) in [Evavic44/hashnode-clone](https://github.com/Evavic44/hashnode-clone)
-5. 🎉 Merged PR [#16](https://github.com/Evavic44/Evavic44/pull/16) in [Evavic44/Evavic44](https://github.com/Evavic44/Evavic44)
+1. 🎉 Merged PR [#294](https://github.com/Evavic44/portfolio-ideas/pull/294) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. 🎉 Merged PR [#293](https://github.com/Evavic44/portfolio-ideas/pull/293) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+3. 🔒 Closed issue [#25](https://github.com/Evavic44/Learn-JavaScript/issues/25) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
+4. ❌ Closed PR [#24](https://github.com/Evavic44/Learn-JavaScript/pull/24) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
+5. ❌ Reopened PR [#24](https://github.com/Evavic44/Learn-JavaScript/pull/24) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
 <!--END_SECTION:activity-->
 
 
