@@ -90,11 +90,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#294](https://github.com/Evavic44/portfolio-ideas/pull/294) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-2. 🎉 Merged PR [#293](https://github.com/Evavic44/portfolio-ideas/pull/293) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-3. 🔒 Closed issue [#25](https://github.com/Evavic44/Learn-JavaScript/issues/25) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
-4. ❌ Closed PR [#24](https://github.com/Evavic44/Learn-JavaScript/pull/24) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
-5. ❌ Reopened PR [#24](https://github.com/Evavic44/Learn-JavaScript/pull/24) in [Evavic44/Learn-JavaScript](https://github.com/Evavic44/Learn-JavaScript)
+1. 🔒 Closed issue [#2](https://github.com/Evavic44/responsive-navbar-with-dropdown/issues/2) in [Evavic44/responsive-navbar-with-dropdown](https://github.com/Evavic44/responsive-navbar-with-dropdown)
+2. 🔒 Closed issue [#8](https://github.com/Evavic44/adocs/issues/8) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
+3. 🎉 Merged PR [#6](https://github.com/Evavic44/adocs/pull/6) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
+4. 🔒 Closed issue [#295](https://github.com/Evavic44/portfolio-ideas/issues/295) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+5. 🎉 Merged PR [#296](https://github.com/Evavic44/portfolio-ideas/pull/296) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 <!--END_SECTION:activity-->
 
 
