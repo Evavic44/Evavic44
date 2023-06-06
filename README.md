@@ -90,11 +90,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/Evavic44/responsive-navbar-with-dropdown/issues/2) in [Evavic44/responsive-navbar-with-dropdown](https://github.com/Evavic44/responsive-navbar-with-dropdown)
-2. 🔒 Closed issue [#8](https://github.com/Evavic44/adocs/issues/8) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
-3. 🎉 Merged PR [#6](https://github.com/Evavic44/adocs/pull/6) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
-4. 🔒 Closed issue [#295](https://github.com/Evavic44/portfolio-ideas/issues/295) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-5. 🎉 Merged PR [#296](https://github.com/Evavic44/portfolio-ideas/pull/296) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. ❌ Closed PR [#95](https://github.com/Evavic44/spekni/pull/95) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
+2. ❌ Closed PR [#96](https://github.com/Evavic44/spekni/pull/96) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
+3. 🔒 Closed issue [#2](https://github.com/Evavic44/responsive-navbar-with-dropdown/issues/2) in [Evavic44/responsive-navbar-with-dropdown](https://github.com/Evavic44/responsive-navbar-with-dropdown)
+4. 🔒 Closed issue [#8](https://github.com/Evavic44/adocs/issues/8) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
+5. 🎉 Merged PR [#6](https://github.com/Evavic44/adocs/pull/6) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
 <!--END_SECTION:activity-->
 
 
