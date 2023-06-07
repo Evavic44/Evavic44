@@ -90,11 +90,11 @@ As a huge fan of open source, all my personal projects live on GitHub and Codepe
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#95](https://github.com/Evavic44/spekni/pull/95) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
-2. ❌ Closed PR [#96](https://github.com/Evavic44/spekni/pull/96) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
-3. 🔒 Closed issue [#2](https://github.com/Evavic44/responsive-navbar-with-dropdown/issues/2) in [Evavic44/responsive-navbar-with-dropdown](https://github.com/Evavic44/responsive-navbar-with-dropdown)
-4. 🔒 Closed issue [#8](https://github.com/Evavic44/adocs/issues/8) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
-5. 🎉 Merged PR [#6](https://github.com/Evavic44/adocs/pull/6) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
+1. ❌ Closed PR [#100](https://github.com/Evavic44/spekni/pull/100) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
+2. ❌ Closed PR [#99](https://github.com/Evavic44/spekni/pull/99) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
+3. ❌ Closed PR [#97](https://github.com/Evavic44/spekni/pull/97) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
+4. ❌ Closed PR [#98](https://github.com/Evavic44/spekni/pull/98) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
+5. 🎉 Merged PR [#26](https://github.com/Evavic44/currencee/pull/26) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
 <!--END_SECTION:activity-->
 
 
