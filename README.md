@@ -9,17 +9,13 @@ In my spare time, I love writing technical articles and building projects that a
 
 Want to collaborate on a project together, feel free to connect with me and let's dive into the world of code to create wonders that would make even the Matrix jealous.
 
-<hr><br>
-
 ## Open Source
 
 - Building [communitypro][community-pro], an awesome community of over 200+ developers on GitHub
 - Contributing to [vitejs][vite] docs.
 - Maintaining [Portfolio Ideas][portfolio-ideas]
 
-If you have any jobs or freelance contracts, kindly send me an [email][email].
-
-<hr><br>
+If you have any jobs or freelance contracts, kindly send me an [email][email]
 
 ## Featured Projects
 
@@ -29,20 +25,18 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 <tr>
 <td align="center">
   <a href="https://github.com/evavic44/portfolio-ideas">
-    <img src="https://github.com/Evavic44/Evavic44/assets/62628408/c3a40c09-658b-48c9-a564-940c4f1a2d2d"> <br/>
+    <img src="images/portfolio-ideas.png"> <br/>
     <sub>Portfolio Ideas</sub>
   </a>
 </td>
 <td align="center">
   <a href="https://github.com/evavic44/adocs">
-    <img src="https://github.com/Evavic44/Evavic44/assets/62628408/cd08358f-3198-499b-81b2-1b0e39cf73c6"> <br/>
+    <img src="images/adocs.jpg"> <br/>
     <sub>Adocs (Vitepress SSG)</sub>
   </a>
 </td>
 </tr>
 </table>
-
-<hr><br>
 
 ## Blogs posts
 
@@ -53,8 +47,6 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 - [How my open source project got 1000 stars on GitHub in 4 months](https://eke.hashnode.dev/how-my-open-source-project-got-1000-stars-on-github-in-4-months)
 - [How open source can boost your career as a developer?](https://eke.hashnode.dev/how-open-source-can-boost-your-career-as-a-developer)
 <!-- BLOG-POST-LIST:END -->
-
-<hr><br>
 
 ## Recent GitHub Activity
 
