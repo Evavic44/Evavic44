@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#103](https://github.com/Evavic44/spekni/pull/103) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
-2. 🎉 Merged PR [#105](https://github.com/Evavic44/spekni/pull/105) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
-3. 🎉 Merged PR [#108](https://github.com/Evavic44/spekni/pull/108) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
-4. ❌ Closed PR [#100](https://github.com/Evavic44/spekni/pull/100) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
-5. ❌ Closed PR [#99](https://github.com/Evavic44/spekni/pull/99) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
+1. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. ❌ Closed PR [#298](https://github.com/Evavic44/portfolio-ideas/pull/298) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+3. 🎉 Merged PR [#103](https://github.com/Evavic44/spekni/pull/103) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
+4. 🎉 Merged PR [#105](https://github.com/Evavic44/spekni/pull/105) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
+5. 🎉 Merged PR [#108](https://github.com/Evavic44/spekni/pull/108) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
 <!--END_SECTION:activity-->
 
 ## Support
