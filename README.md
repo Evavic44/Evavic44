@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#4](https://github.com/Evavic44/responsive-navbar-with-dropdown/issues/4) in [Evavic44/responsive-navbar-with-dropdown](https://github.com/Evavic44/responsive-navbar-with-dropdown)
-2. 🗣 Commented on [#4](https://github.com/Evavic44/responsive-navbar-with-dropdown/issues/4) in [Evavic44/responsive-navbar-with-dropdown](https://github.com/Evavic44/responsive-navbar-with-dropdown)
-3. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-4. ❌ Closed PR [#298](https://github.com/Evavic44/portfolio-ideas/pull/298) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-5. 🎉 Merged PR [#103](https://github.com/Evavic44/spekni/pull/103) in [Evavic44/spekni](https://github.com/Evavic44/spekni)
+1. 🗣 Commented on [#304](https://github.com/Evavic44/portfolio-ideas/issues/304) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. 🔒 Closed issue [#4](https://github.com/Evavic44/responsive-navbar-with-dropdown/issues/4) in [Evavic44/responsive-navbar-with-dropdown](https://github.com/Evavic44/responsive-navbar-with-dropdown)
+3. 🗣 Commented on [#4](https://github.com/Evavic44/responsive-navbar-with-dropdown/issues/4) in [Evavic44/responsive-navbar-with-dropdown](https://github.com/Evavic44/responsive-navbar-with-dropdown)
+4. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+5. ❌ Closed PR [#298](https://github.com/Evavic44/portfolio-ideas/pull/298) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 <!--END_SECTION:activity-->
 
 ## Support
