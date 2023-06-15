@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#304](https://github.com/Evavic44/portfolio-ideas/pull/304) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-2. 🗣 Commented on [#304](https://github.com/Evavic44/portfolio-ideas/issues/304) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-3. 🔒 Closed issue [#4](https://github.com/Evavic44/responsive-navbar-with-dropdown/issues/4) in [Evavic44/responsive-navbar-with-dropdown](https://github.com/Evavic44/responsive-navbar-with-dropdown)
-4. 🗣 Commented on [#4](https://github.com/Evavic44/responsive-navbar-with-dropdown/issues/4) in [Evavic44/responsive-navbar-with-dropdown](https://github.com/Evavic44/responsive-navbar-with-dropdown)
-5. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. 🗣 Commented on [#305](https://github.com/Evavic44/portfolio-ideas/issues/305) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. 🔒 Closed issue [#305](https://github.com/Evavic44/portfolio-ideas/issues/305) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+3. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+4. 🔒 Closed issue [#133](https://github.com/CommunityPro/portfolio-html/issues/133) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
+5. 🗣 Commented on [#139](https://github.com/CommunityPro/portfolio-html/issues/139) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
 <!--END_SECTION:activity-->
 
 ## Support
