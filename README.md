@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#309](https://github.com/Evavic44/portfolio-ideas/pull/309) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-2. 🎉 Merged PR [#116](https://github.com/CommunityPro/Practice-Contribution/pull/116) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
-3. 🗣 Commented on [#305](https://github.com/Evavic44/portfolio-ideas/issues/305) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-4. 🔒 Closed issue [#305](https://github.com/Evavic44/portfolio-ideas/issues/305) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-5. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. 🗣 Commented on [#99](https://github.com/Evavic44/Eke/issues/99) in [Evavic44/Eke](https://github.com/Evavic44/Eke)
+2. ❌ Closed PR [#309](https://github.com/Evavic44/portfolio-ideas/pull/309) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+3. 🎉 Merged PR [#116](https://github.com/CommunityPro/Practice-Contribution/pull/116) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
+4. 🗣 Commented on [#305](https://github.com/Evavic44/portfolio-ideas/issues/305) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+5. 🔒 Closed issue [#305](https://github.com/Evavic44/portfolio-ideas/issues/305) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 <!--END_SECTION:activity-->
 
 ## Support
