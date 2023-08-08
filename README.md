@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#49](https://github.com/sanity-io/code-input/issues/49#issuecomment-1666583268) in [sanity-io/code-input](https://github.com/sanity-io/code-input)
-2. 🗣 Commented on [#49](https://github.com/sanity-io/code-input/issues/49#issuecomment-1666473716) in [sanity-io/code-input](https://github.com/sanity-io/code-input)
-3. 🎉 Merged PR [#331](https://github.com/Evavic44/portfolio-ideas/pull/331) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-4. ❗ Opened issue [#3664](https://github.com/leerob/on-demand-isr/issues/3664) in [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr)
-5. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104#issuecomment-1646647063) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. ❌ Closed PR [#332](https://github.com/Evavic44/portfolio-ideas/pull/332) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. ❌ Closed PR [#317](https://github.com/Evavic44/portfolio-ideas/pull/317) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+3. ❌ Closed PR [#325](https://github.com/Evavic44/portfolio-ideas/pull/325) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+4. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104#issuecomment-1670000882) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+5. 🗣 Commented on [#49](https://github.com/sanity-io/code-input/issues/49#issuecomment-1666583268) in [sanity-io/code-input](https://github.com/sanity-io/code-input)
 <!--END_SECTION:activity-->
 
 ## Support
