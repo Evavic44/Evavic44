@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104#issuecomment-1683008232) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-2. ❌ Closed PR [#339](https://github.com/Evavic44/portfolio-ideas/pull/339) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-3. 🗣 Commented on [#339](https://github.com/Evavic44/portfolio-ideas/pull/339#issuecomment-1678888099) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-4. 🚀 Published release [v0.07](https://github.com/Evavic44/portfolio-ideas/releases/tag/v0.07) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-5. 🎉 Merged PR [#338](https://github.com/Evavic44/portfolio-ideas/pull/338) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. ❗ Opened issue [#2213](https://github.com/umami-software/umami/issues/2213) in [umami-software/umami](https://github.com/umami-software/umami)
+2. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104#issuecomment-1683008232) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+3. ❌ Closed PR [#339](https://github.com/Evavic44/portfolio-ideas/pull/339) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+4. 🗣 Commented on [#339](https://github.com/Evavic44/portfolio-ideas/pull/339#issuecomment-1678888099) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+5. 🚀 Published release [v0.07](https://github.com/Evavic44/portfolio-ideas/releases/tag/v0.07) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 <!--END_SECTION:activity-->
 
 ## Support
