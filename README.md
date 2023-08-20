@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#32](https://github.com/rexxars/react-refractor/pull/32#issuecomment-1685250048) in [rexxars/react-refractor](https://github.com/rexxars/react-refractor)
-2. ❗ Opened issue [#2213](https://github.com/umami-software/umami/issues/2213) in [umami-software/umami](https://github.com/umami-software/umami)
-3. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104#issuecomment-1683008232) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-4. ❌ Closed PR [#339](https://github.com/Evavic44/portfolio-ideas/pull/339) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-5. 🗣 Commented on [#339](https://github.com/Evavic44/portfolio-ideas/pull/339#issuecomment-1678888099) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. 🗣 Commented on [#31](https://github.com/rexxars/react-refractor/issues/31#issuecomment-1685258370) in [rexxars/react-refractor](https://github.com/rexxars/react-refractor)
+2. 🗣 Commented on [#32](https://github.com/rexxars/react-refractor/pull/32#issuecomment-1685250048) in [rexxars/react-refractor](https://github.com/rexxars/react-refractor)
+3. ❗ Opened issue [#2213](https://github.com/umami-software/umami/issues/2213) in [umami-software/umami](https://github.com/umami-software/umami)
+4. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104#issuecomment-1683008232) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+5. ❌ Closed PR [#339](https://github.com/Evavic44/portfolio-ideas/pull/339) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 <!--END_SECTION:activity-->
 
 ## Support
