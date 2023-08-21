@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#144](https://github.com/CommunityPro/portfolio-html/pull/144) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
-2. 🎉 Merged PR [#145](https://github.com/CommunityPro/portfolio-html/pull/145) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
-3. 🗣 Commented on [#31](https://github.com/rexxars/react-refractor/issues/31#issuecomment-1685258370) in [rexxars/react-refractor](https://github.com/rexxars/react-refractor)
-4. 🗣 Commented on [#32](https://github.com/rexxars/react-refractor/pull/32#issuecomment-1685250048) in [rexxars/react-refractor](https://github.com/rexxars/react-refractor)
-5. ❗ Opened issue [#2213](https://github.com/umami-software/umami/issues/2213) in [umami-software/umami](https://github.com/umami-software/umami)
+1. 🔒 Closed issue [#2213](https://github.com/umami-software/umami/issues/2213) in [umami-software/umami](https://github.com/umami-software/umami)
+2. 🗣 Commented on [#2213](https://github.com/umami-software/umami/issues/2213#issuecomment-1686622811) in [umami-software/umami](https://github.com/umami-software/umami)
+3. ❌ Closed PR [#144](https://github.com/CommunityPro/portfolio-html/pull/144) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
+4. 🎉 Merged PR [#145](https://github.com/CommunityPro/portfolio-html/pull/145) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
+5. 🗣 Commented on [#31](https://github.com/rexxars/react-refractor/issues/31#issuecomment-1685258370) in [rexxars/react-refractor](https://github.com/rexxars/react-refractor)
 <!--END_SECTION:activity-->
 
 ## Support
