@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#2213](https://github.com/umami-software/umami/issues/2213) in [umami-software/umami](https://github.com/umami-software/umami)
-2. 🗣 Commented on [#2213](https://github.com/umami-software/umami/issues/2213#issuecomment-1686622811) in [umami-software/umami](https://github.com/umami-software/umami)
-3. ❌ Closed PR [#144](https://github.com/CommunityPro/portfolio-html/pull/144) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
-4. 🎉 Merged PR [#145](https://github.com/CommunityPro/portfolio-html/pull/145) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
-5. 🗣 Commented on [#31](https://github.com/rexxars/react-refractor/issues/31#issuecomment-1685258370) in [rexxars/react-refractor](https://github.com/rexxars/react-refractor)
+1. 🎉 Merged PR [#340](https://github.com/Evavic44/portfolio-ideas/pull/340) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. 🗣 Commented on [#146](https://github.com/CommunityPro/portfolio-html/issues/146#issuecomment-1688771589) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
+3. 🔒 Closed issue [#2213](https://github.com/umami-software/umami/issues/2213) in [umami-software/umami](https://github.com/umami-software/umami)
+4. 🗣 Commented on [#2213](https://github.com/umami-software/umami/issues/2213#issuecomment-1686622811) in [umami-software/umami](https://github.com/umami-software/umami)
+5. ❌ Closed PR [#144](https://github.com/CommunityPro/portfolio-html/pull/144) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
 <!--END_SECTION:activity-->
 
 ## Support
