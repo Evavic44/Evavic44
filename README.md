@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#147](https://github.com/CommunityPro/portfolio-html/pull/147) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
-2. 🎉 Merged PR [#340](https://github.com/Evavic44/portfolio-ideas/pull/340) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-3. 🗣 Commented on [#146](https://github.com/CommunityPro/portfolio-html/issues/146#issuecomment-1688771589) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
-4. 🔒 Closed issue [#2213](https://github.com/umami-software/umami/issues/2213) in [umami-software/umami](https://github.com/umami-software/umami)
-5. 🗣 Commented on [#2213](https://github.com/umami-software/umami/issues/2213#issuecomment-1686622811) in [umami-software/umami](https://github.com/umami-software/umami)
+1. 🔒 Closed issue [#148](https://github.com/CommunityPro/portfolio-html/issues/148) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
+2. 🗣 Commented on [#148](https://github.com/CommunityPro/portfolio-html/issues/148#issuecomment-1692514118) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
+3. 🎉 Merged PR [#147](https://github.com/CommunityPro/portfolio-html/pull/147) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
+4. 🎉 Merged PR [#340](https://github.com/Evavic44/portfolio-ideas/pull/340) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+5. 🗣 Commented on [#146](https://github.com/CommunityPro/portfolio-html/issues/146#issuecomment-1688771589) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
 <!--END_SECTION:activity-->
 
 ## Support
