@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#51](https://github.com/Evavic44/victoreke.com/issues/51) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-2. 🔒 Closed issue [#148](https://github.com/CommunityPro/portfolio-html/issues/148) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
-3. 🗣 Commented on [#148](https://github.com/CommunityPro/portfolio-html/issues/148#issuecomment-1692514118) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
-4. 🎉 Merged PR [#147](https://github.com/CommunityPro/portfolio-html/pull/147) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
-5. 🎉 Merged PR [#340](https://github.com/Evavic44/portfolio-ideas/pull/340) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. ❗ Opened issue [#52](https://github.com/Evavic44/victoreke.com/issues/52) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+2. ❗ Opened issue [#51](https://github.com/Evavic44/victoreke.com/issues/51) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+3. 🔒 Closed issue [#148](https://github.com/CommunityPro/portfolio-html/issues/148) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
+4. 🗣 Commented on [#148](https://github.com/CommunityPro/portfolio-html/issues/148#issuecomment-1692514118) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
+5. 🎉 Merged PR [#147](https://github.com/CommunityPro/portfolio-html/pull/147) in [CommunityPro/portfolio-html](https://github.com/CommunityPro/portfolio-html)
 <!--END_SECTION:activity-->
 
 ## Support
