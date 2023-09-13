@@ -3,9 +3,9 @@
 
 ## About Me
 
-Hello human! I'm Victor Eke, a front-end developer and open-source maintainer with over 3 years of experience, I'm passionate about making websites look more appealing than a box of donuts in a room full of hungry developers.
+I'm Victor Eke, an experienced software developer specialzing in frontend development and open-source passionate about learning and building open-source software that is beneficial to developers and the world at large.
 
-In my spare time, I love writing technical articles and building projects that are beneficial to other developers. You can find some of my latest posts on [freeCodeCamp][freecodecamp-site] and [hashnode][hashnode-site].
+In my spare time, I love writing technical articles and building projects. You can find some of my latest posts on [freeCodeCamp][freecodecamp-site], my [personal blog][blog], and [hashnode][hashnode-site].
 
 Want to collaborate on a project together, feel free to connect with me and let's dive into the world of code to create wonders that would make even the Matrix jealous.
 
@@ -30,9 +30,9 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/evavic44/adocs">
-    <img src="images/adocs.jpg"> <br/>
-    <sub>Adocs (Vitepress SSG)</sub>
+  <a href="https://github.com/evavic44/victoreke.com">
+    <img src="images/victoreke.com.jpg"> <br/>
+    <sub>My Personal Site</sub>
   </a>
 </td>
 </tr>
@@ -41,6 +41,7 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 ## Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How a Bug got me an Upvote on Stackoverflow](https://eke.hashnode.dev/how-a-bug-got-me-an-upvote-on-stackoverflow)
 - [Reflecting on my 2022 Developer Journey](https://eke.hashnode.dev/reflecting-on-my-2022-developer-journey)
 - [How my open source project got 1000 stars on GitHub in 4 months](https://eke.hashnode.dev/how-my-open-source-project-got-1000-stars-on-github-in-4-months)
@@ -70,6 +71,7 @@ If you love what I do and would like to support me, consider buying me a coffee.
 [banner-image]: https://user-images.githubusercontent.com/62628408/201165752-abcdd7c0-8447-415e-80f2-315d3cb04e84.png
 [freecodecamp-site]: https://freecodecamp.org/news/author/victoreke/
 [hashnode-site]: https://eke.hashnode.dev
+[blog]: https://victoreke.com/blog
 [community-pro]: https://github.com/CommunityPro
 [vite]: https://github.com/vitejs/
 [portfolio-ideas]: https://github.com/evavic44/portfolio-ideas
