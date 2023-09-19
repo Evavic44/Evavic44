@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#71](https://github.com/Evavic44/rocketmeme/pull/71) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-2. 🎉 Merged PR [#72](https://github.com/Evavic44/rocketmeme/pull/72) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-3. 🔒 Closed issue [#57](https://github.com/Evavic44/rocketmeme/issues/57) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-4. 🎉 Merged PR [#1](https://github.com/CommunityPro/ecommerce-api/pull/1) in [CommunityPro/ecommerce-api](https://github.com/CommunityPro/ecommerce-api)
-5. ❗ Opened issue [#9](https://github.com/CommunityPro/ecommerce-api/issues/9) in [CommunityPro/ecommerce-api](https://github.com/CommunityPro/ecommerce-api)
+1. 🗣 Commented on [#57](https://github.com/Evavic44/victoreke.com/issues/57#issuecomment-1724926776) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+2. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104#issuecomment-1724925119) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+3. ❌ Closed PR [#71](https://github.com/Evavic44/rocketmeme/pull/71) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+4. 🎉 Merged PR [#72](https://github.com/Evavic44/rocketmeme/pull/72) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+5. 🔒 Closed issue [#57](https://github.com/Evavic44/rocketmeme/issues/57) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
 <!--END_SECTION:activity-->
 
 ## Support
