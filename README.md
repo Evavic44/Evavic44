@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#58](https://github.com/Evavic44/victoreke.com/pull/58) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-2. 💪 Opened PR [#58](https://github.com/Evavic44/victoreke.com/pull/58) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-3. 🔒 Closed issue [#57](https://github.com/Evavic44/victoreke.com/issues/57) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-4. 🗣 Commented on [#57](https://github.com/Evavic44/victoreke.com/issues/57#issuecomment-1743897624) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-5. 🔒 Closed issue [#2](https://github.com/Evavic44/sanity-nextjs-site/issues/2) in [Evavic44/sanity-nextjs-site](https://github.com/Evavic44/sanity-nextjs-site)
+1. 🎉 Merged PR [#352](https://github.com/Evavic44/portfolio-ideas/pull/352) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. 💪 Opened PR [#352](https://github.com/Evavic44/portfolio-ideas/pull/352) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+3. 🔒 Closed issue [#345](https://github.com/Evavic44/portfolio-ideas/issues/345) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+4. 🎉 Merged PR [#351](https://github.com/Evavic44/portfolio-ideas/pull/351) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+5. 🎉 Merged PR [#58](https://github.com/Evavic44/victoreke.com/pull/58) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
 <!--END_SECTION:activity-->
 
 ## Support
