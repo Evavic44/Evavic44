@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4](https://github.com/Evavic44/sanity-nextjs-site/issues/4#issuecomment-1751786331) in [Evavic44/sanity-nextjs-site](https://github.com/Evavic44/sanity-nextjs-site)
-2. 🗣 Commented on [#3](https://github.com/Evavic44/sanity-nextjs-site/issues/3#issuecomment-1751697160) in [Evavic44/sanity-nextjs-site](https://github.com/Evavic44/sanity-nextjs-site)
-3. 🗣 Commented on [#4](https://github.com/Evavic44/sanity-nextjs-site/issues/4#issuecomment-1751677839) in [Evavic44/sanity-nextjs-site](https://github.com/Evavic44/sanity-nextjs-site)
-4. 🗣 Commented on [#4](https://github.com/Evavic44/sanity-nextjs-site/issues/4#issuecomment-1751674419) in [Evavic44/sanity-nextjs-site](https://github.com/Evavic44/sanity-nextjs-site)
-5. 🗣 Commented on [#3](https://github.com/Evavic44/sanity-nextjs-site/issues/3#issuecomment-1751433613) in [Evavic44/sanity-nextjs-site](https://github.com/Evavic44/sanity-nextjs-site)
+1. 🗣 Commented on [#3](https://github.com/Evavic44/sanity-nextjs-site/issues/3#issuecomment-1752178267) in [Evavic44/sanity-nextjs-site](https://github.com/Evavic44/sanity-nextjs-site)
+2. 🗣 Commented on [#4](https://github.com/Evavic44/sanity-nextjs-site/issues/4#issuecomment-1751786331) in [Evavic44/sanity-nextjs-site](https://github.com/Evavic44/sanity-nextjs-site)
+3. 🗣 Commented on [#3](https://github.com/Evavic44/sanity-nextjs-site/issues/3#issuecomment-1751697160) in [Evavic44/sanity-nextjs-site](https://github.com/Evavic44/sanity-nextjs-site)
+4. 🗣 Commented on [#4](https://github.com/Evavic44/sanity-nextjs-site/issues/4#issuecomment-1751677839) in [Evavic44/sanity-nextjs-site](https://github.com/Evavic44/sanity-nextjs-site)
+5. 🗣 Commented on [#4](https://github.com/Evavic44/sanity-nextjs-site/issues/4#issuecomment-1751674419) in [Evavic44/sanity-nextjs-site](https://github.com/Evavic44/sanity-nextjs-site)
 <!--END_SECTION:activity-->
 
 ## Support
