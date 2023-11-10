@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#64](https://github.com/Evavic44/victoreke.com/issues/64) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-2. ❗ Opened issue [#47](https://github.com/CommunityPro/ecommerce-api/issues/47) in [CommunityPro/ecommerce-api](https://github.com/CommunityPro/ecommerce-api)
-3. 🗣 Commented on [#35](https://github.com/Evavic44/rocketmeme/issues/35#issuecomment-1791466179) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-4. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104#issuecomment-1790692789) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-5. ❌ Closed PR [#7](https://github.com/Evavic44/sanity-nextjs-site/pull/7) in [Evavic44/sanity-nextjs-site](https://github.com/Evavic44/sanity-nextjs-site)
+1. ❗ Opened issue [#65](https://github.com/Evavic44/victoreke.com/issues/65) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+2. ❗ Opened issue [#64](https://github.com/Evavic44/victoreke.com/issues/64) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+3. ❗ Opened issue [#47](https://github.com/CommunityPro/ecommerce-api/issues/47) in [CommunityPro/ecommerce-api](https://github.com/CommunityPro/ecommerce-api)
+4. 🗣 Commented on [#35](https://github.com/Evavic44/rocketmeme/issues/35#issuecomment-1791466179) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+5. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104#issuecomment-1790692789) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 <!--END_SECTION:activity-->
 
 ## Support
