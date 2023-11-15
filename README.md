@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#67](https://github.com/Evavic44/victoreke.com/issues/67) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-2. ❌ Closed PR [#66](https://github.com/Evavic44/victoreke.com/pull/66) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-3. ❗ Opened issue [#65](https://github.com/Evavic44/victoreke.com/issues/65) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-4. ❗ Opened issue [#64](https://github.com/Evavic44/victoreke.com/issues/64) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-5. ❗ Opened issue [#47](https://github.com/CommunityPro/ecommerce-api/issues/47) in [CommunityPro/ecommerce-api](https://github.com/CommunityPro/ecommerce-api)
+1. ❌ Closed PR [#1](https://github.com/Evavic44/victoreke.com/pull/1) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+2. 🎉 Merged PR [#68](https://github.com/Evavic44/victoreke.com/pull/68) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+3. 💪 Opened PR [#68](https://github.com/Evavic44/victoreke.com/pull/68) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+4. ❗ Opened issue [#67](https://github.com/Evavic44/victoreke.com/issues/67) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+5. ❌ Closed PR [#66](https://github.com/Evavic44/victoreke.com/pull/66) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
 <!--END_SECTION:activity-->
 
 ## Support
