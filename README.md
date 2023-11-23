@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/vidder5/medical-adherence-tracker-frontend/pull/2) in [vidder5/medical-adherence-tracker-frontend](https://github.com/vidder5/medical-adherence-tracker-frontend)
-2. 🎉 Merged PR [#365](https://github.com/Evavic44/portfolio-ideas/pull/365) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-3. 💪 Opened PR [#365](https://github.com/Evavic44/portfolio-ideas/pull/365) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-4. 🔒 Closed issue [#62](https://github.com/Evavic44/victoreke.com/issues/62) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-5. 🚀 Published release [comments](https://github.com/Evavic44/victoreke.com/releases/tag/v1.1) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+1. ❌ Closed PR [#3](https://github.com/vidder5/medical-adherence-tracker-frontend/pull/3) in [vidder5/medical-adherence-tracker-frontend](https://github.com/vidder5/medical-adherence-tracker-frontend)
+2. 🎉 Merged PR [#2](https://github.com/vidder5/medical-adherence-tracker-frontend/pull/2) in [vidder5/medical-adherence-tracker-frontend](https://github.com/vidder5/medical-adherence-tracker-frontend)
+3. 💪 Opened PR [#2](https://github.com/vidder5/medical-adherence-tracker-frontend/pull/2) in [vidder5/medical-adherence-tracker-frontend](https://github.com/vidder5/medical-adherence-tracker-frontend)
+4. 🎉 Merged PR [#365](https://github.com/Evavic44/portfolio-ideas/pull/365) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+5. 💪 Opened PR [#365](https://github.com/Evavic44/portfolio-ideas/pull/365) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 <!--END_SECTION:activity-->
 
 ## Support
