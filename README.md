@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104#issuecomment-1827695348) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-2. ❌ Closed PR [#3](https://github.com/vidder5/medical-adherence-tracker-frontend/pull/3) in [vidder5/medical-adherence-tracker-frontend](https://github.com/vidder5/medical-adherence-tracker-frontend)
-3. 🎉 Merged PR [#2](https://github.com/vidder5/medical-adherence-tracker-frontend/pull/2) in [vidder5/medical-adherence-tracker-frontend](https://github.com/vidder5/medical-adherence-tracker-frontend)
-4. 💪 Opened PR [#2](https://github.com/vidder5/medical-adherence-tracker-frontend/pull/2) in [vidder5/medical-adherence-tracker-frontend](https://github.com/vidder5/medical-adherence-tracker-frontend)
-5. 🎉 Merged PR [#365](https://github.com/Evavic44/portfolio-ideas/pull/365) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. 🎉 Merged PR [#369](https://github.com/Evavic44/portfolio-ideas/pull/369) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104#issuecomment-1827695348) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+3. ❌ Closed PR [#3](https://github.com/vidder5/medical-adherence-tracker-frontend/pull/3) in [vidder5/medical-adherence-tracker-frontend](https://github.com/vidder5/medical-adherence-tracker-frontend)
+4. 🎉 Merged PR [#2](https://github.com/vidder5/medical-adherence-tracker-frontend/pull/2) in [vidder5/medical-adherence-tracker-frontend](https://github.com/vidder5/medical-adherence-tracker-frontend)
+5. 💪 Opened PR [#2](https://github.com/vidder5/medical-adherence-tracker-frontend/pull/2) in [vidder5/medical-adherence-tracker-frontend](https://github.com/vidder5/medical-adherence-tracker-frontend)
 <!--END_SECTION:activity-->
 
 ## Support
