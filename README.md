@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#369](https://github.com/Evavic44/portfolio-ideas/pull/369) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-2. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104#issuecomment-1827695348) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-3. ❌ Closed PR [#3](https://github.com/vidder5/medical-adherence-tracker-frontend/pull/3) in [vidder5/medical-adherence-tracker-frontend](https://github.com/vidder5/medical-adherence-tracker-frontend)
-4. 🎉 Merged PR [#2](https://github.com/vidder5/medical-adherence-tracker-frontend/pull/2) in [vidder5/medical-adherence-tracker-frontend](https://github.com/vidder5/medical-adherence-tracker-frontend)
-5. 💪 Opened PR [#2](https://github.com/vidder5/medical-adherence-tracker-frontend/pull/2) in [vidder5/medical-adherence-tracker-frontend](https://github.com/vidder5/medical-adherence-tracker-frontend)
+1. 🎉 Merged PR [#370](https://github.com/Evavic44/portfolio-ideas/pull/370) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. 🗣 Commented on [#369](https://github.com/Evavic44/portfolio-ideas/pull/369#issuecomment-1830473453) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+3. 🗣 Commented on [#369](https://github.com/Evavic44/portfolio-ideas/pull/369#issuecomment-1830470301) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+4. 🎉 Merged PR [#369](https://github.com/Evavic44/portfolio-ideas/pull/369) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+5. 🗣 Commented on [#104](https://github.com/Evavic44/portfolio-ideas/issues/104#issuecomment-1827695348) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 <!--END_SECTION:activity-->
 
 ## Support
