@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#73](https://github.com/Evavic44/victoreke.com/pull/73) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-2. 💪 Opened PR [#73](https://github.com/Evavic44/victoreke.com/pull/73) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-3. 🎉 Merged PR [#72](https://github.com/Evavic44/victoreke.com/pull/72) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-4. 💪 Opened PR [#72](https://github.com/Evavic44/victoreke.com/pull/72) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-5. 🎉 Merged PR [#2](https://github.com/Evavic44/sanity-nextjs-revalidation/pull/2) in [Evavic44/sanity-nextjs-revalidation](https://github.com/Evavic44/sanity-nextjs-revalidation)
+1. 🗣 Commented on [#63](https://github.com/Evavic44/victoreke.com/issues/63#issuecomment-1858842141) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+2. 🔒 Closed issue [#63](https://github.com/Evavic44/victoreke.com/issues/63) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+3. 🎉 Merged PR [#74](https://github.com/Evavic44/victoreke.com/pull/74) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+4. 💪 Opened PR [#74](https://github.com/Evavic44/victoreke.com/pull/74) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+5. 🎉 Merged PR [#73](https://github.com/Evavic44/victoreke.com/pull/73) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
 <!--END_SECTION:activity-->
 
 ## Support
