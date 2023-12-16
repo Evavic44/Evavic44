@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#63](https://github.com/Evavic44/victoreke.com/issues/63#issuecomment-1858842141) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-2. 🔒 Closed issue [#63](https://github.com/Evavic44/victoreke.com/issues/63) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-3. 🎉 Merged PR [#74](https://github.com/Evavic44/victoreke.com/pull/74) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-4. 💪 Opened PR [#74](https://github.com/Evavic44/victoreke.com/pull/74) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-5. 🎉 Merged PR [#73](https://github.com/Evavic44/victoreke.com/pull/73) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+1. 🔒 Closed issue [#4](https://github.com/Evavic44/sanity-nextjs-site/issues/4) in [Evavic44/sanity-nextjs-site](https://github.com/Evavic44/sanity-nextjs-site)
+2. 🗣 Commented on [#3](https://github.com/Evavic44/sanity-nextjs-site/issues/3#issuecomment-1858917443) in [Evavic44/sanity-nextjs-site](https://github.com/Evavic44/sanity-nextjs-site)
+3. 🗣 Commented on [#63](https://github.com/Evavic44/victoreke.com/issues/63#issuecomment-1858842141) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+4. 🔒 Closed issue [#63](https://github.com/Evavic44/victoreke.com/issues/63) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+5. 🎉 Merged PR [#74](https://github.com/Evavic44/victoreke.com/pull/74) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
 <!--END_SECTION:activity-->
 
 ## Support
