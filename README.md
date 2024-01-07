@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#14](https://github.com/Evavic44/adocs/pull/14) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
-2. 🚀 Published release [studio-update](https://github.com/Evavic44/victoreke.com/releases/tag/v1.3) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-3. 🎉 Merged PR [#78](https://github.com/Evavic44/victoreke.com/pull/78) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-4. 💪 Opened PR [#78](https://github.com/Evavic44/victoreke.com/pull/78) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-5. 🔒 Closed issue [#59](https://github.com/Evavic44/victoreke.com/issues/59) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+1. ❌ Closed PR [#384](https://github.com/Evavic44/portfolio-ideas/pull/384) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. 🎉 Merged PR [#14](https://github.com/Evavic44/adocs/pull/14) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
+3. 🚀 Published release [studio-update](https://github.com/Evavic44/victoreke.com/releases/tag/v1.3) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+4. 🎉 Merged PR [#78](https://github.com/Evavic44/victoreke.com/pull/78) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+5. 💪 Opened PR [#78](https://github.com/Evavic44/victoreke.com/pull/78) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
 <!--END_SECTION:activity-->
 
 ## Support
