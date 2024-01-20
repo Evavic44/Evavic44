@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#60841](https://github.com/vercel/next.js/pull/60841) in [vercel/next.js](https://github.com/vercel/next.js)
-2. 🗣 Commented on [#58697](https://github.com/vercel/next.js/issues/58697#issuecomment-1894581797) in [vercel/next.js](https://github.com/vercel/next.js)
-3. ❌ Closed PR [#384](https://github.com/Evavic44/portfolio-ideas/pull/384) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-4. 🎉 Merged PR [#14](https://github.com/Evavic44/adocs/pull/14) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
-5. 🚀 Published release [studio-update](https://github.com/Evavic44/victoreke.com/releases/tag/v1.3) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+1. 🔒 Closed issue [#50](https://github.com/Evavic44/victoreke.com/issues/50) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+2. 🎉 Merged PR [#79](https://github.com/Evavic44/victoreke.com/pull/79) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+3. 💪 Opened PR [#79](https://github.com/Evavic44/victoreke.com/pull/79) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+4. 💪 Opened PR [#60841](https://github.com/vercel/next.js/pull/60841) in [vercel/next.js](https://github.com/vercel/next.js)
+5. 🗣 Commented on [#58697](https://github.com/vercel/next.js/issues/58697#issuecomment-1894581797) in [vercel/next.js](https://github.com/vercel/next.js)
 <!--END_SECTION:activity-->
 
 ## Support
