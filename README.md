@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3263](https://github.com/ripienaar/free-for-dev/pull/3263) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
-2. 🎉 Merged PR [#73](https://github.com/Evavic44/rocketmeme/pull/73) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
-3. 🎉 Merged PR [#394](https://github.com/Evavic44/portfolio-ideas/pull/394) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-4. 🎉 Merged PR [#392](https://github.com/Evavic44/portfolio-ideas/pull/392) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-5. 🎉 Merged PR [#80](https://github.com/Evavic44/victoreke.com/pull/80) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+1. 🎉 Merged PR [#395](https://github.com/Evavic44/portfolio-ideas/pull/395) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. 🎉 Merged PR [#396](https://github.com/Evavic44/portfolio-ideas/pull/396) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+3. 💪 Opened PR [#3263](https://github.com/ripienaar/free-for-dev/pull/3263) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+4. 🎉 Merged PR [#73](https://github.com/Evavic44/rocketmeme/pull/73) in [Evavic44/rocketmeme](https://github.com/Evavic44/rocketmeme)
+5. 🎉 Merged PR [#394](https://github.com/Evavic44/portfolio-ideas/pull/394) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 <!--END_SECTION:activity-->
 
 ## Support
