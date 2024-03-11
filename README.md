@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#81](https://github.com/Evavic44/victoreke.com/pull/81) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-2. 💪 Opened PR [#81](https://github.com/Evavic44/victoreke.com/pull/81) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-3. 🎉 Merged PR [#402](https://github.com/Evavic44/portfolio-ideas/pull/402) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-4. 🎉 Merged PR [#399](https://github.com/Evavic44/portfolio-ideas/pull/399) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-5. 🗣 Commented on [#9](https://github.com/Evavic44/adocs/pull/9#issuecomment-1956709282) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
+1. 🗣 Commented on [#11](https://github.com/Evavic44/adocs/issues/11#issuecomment-1988986149) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
+2. 🔒 Closed issue [#11](https://github.com/Evavic44/adocs/issues/11) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
+3. ❌ Closed PR [#9](https://github.com/Evavic44/adocs/pull/9) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
+4. 🎉 Merged PR [#15](https://github.com/Evavic44/adocs/pull/15) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
+5. 🎉 Merged PR [#81](https://github.com/Evavic44/victoreke.com/pull/81) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
 <!--END_SECTION:activity-->
 
 ## Support
