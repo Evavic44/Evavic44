@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#82](https://github.com/Evavic44/victoreke.com/issues/82#issuecomment-2016519596) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-2. 🗣 Commented on [#11](https://github.com/Evavic44/adocs/issues/11#issuecomment-1988986149) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
-3. 🔒 Closed issue [#11](https://github.com/Evavic44/adocs/issues/11) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
-4. ❌ Closed PR [#9](https://github.com/Evavic44/adocs/pull/9) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
-5. 🎉 Merged PR [#15](https://github.com/Evavic44/adocs/pull/15) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
+1. 🎉 Merged PR [#407](https://github.com/Evavic44/portfolio-ideas/pull/407) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. 🗣 Commented on [#82](https://github.com/Evavic44/victoreke.com/issues/82#issuecomment-2016519596) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+3. 🗣 Commented on [#11](https://github.com/Evavic44/adocs/issues/11#issuecomment-1988986149) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
+4. 🔒 Closed issue [#11](https://github.com/Evavic44/adocs/issues/11) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
+5. ❌ Closed PR [#9](https://github.com/Evavic44/adocs/pull/9) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
 <!--END_SECTION:activity-->
 
 ## Support
