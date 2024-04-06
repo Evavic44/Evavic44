@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#409](https://github.com/Evavic44/portfolio-ideas/pull/409) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-2. 🎉 Merged PR [#407](https://github.com/Evavic44/portfolio-ideas/pull/407) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-3. 🗣 Commented on [#82](https://github.com/Evavic44/victoreke.com/issues/82#issuecomment-2016519596) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-4. 🗣 Commented on [#11](https://github.com/Evavic44/adocs/issues/11#issuecomment-1988986149) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
-5. 🔒 Closed issue [#11](https://github.com/Evavic44/adocs/issues/11) in [Evavic44/adocs](https://github.com/Evavic44/adocs)
+1. 🎉 Merged PR [#3](https://github.com/Evavic44/sanity-nextjs-revalidation/pull/3) in [Evavic44/sanity-nextjs-revalidation](https://github.com/Evavic44/sanity-nextjs-revalidation)
+2. 💪 Opened PR [#3](https://github.com/Evavic44/sanity-nextjs-revalidation/pull/3) in [Evavic44/sanity-nextjs-revalidation](https://github.com/Evavic44/sanity-nextjs-revalidation)
+3. ❌ Closed PR [#409](https://github.com/Evavic44/portfolio-ideas/pull/409) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+4. 🎉 Merged PR [#407](https://github.com/Evavic44/portfolio-ideas/pull/407) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+5. 🗣 Commented on [#82](https://github.com/Evavic44/victoreke.com/issues/82#issuecomment-2016519596) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
 <!--END_SECTION:activity-->
 
 ## Support
