@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#7](https://github.com/Evavic44/quiznote/issues/7) in [Evavic44/quiznote](https://github.com/Evavic44/quiznote)
-2. 🎉 Merged PR [#14](https://github.com/Evavic44/sanity-nextjs-site/pull/14) in [Evavic44/sanity-nextjs-site](https://github.com/Evavic44/sanity-nextjs-site)
-3. 💪 Opened PR [#14](https://github.com/Evavic44/sanity-nextjs-site/pull/14) in [Evavic44/sanity-nextjs-site](https://github.com/Evavic44/sanity-nextjs-site)
-4. ❌ Closed PR [#13](https://github.com/Evavic44/sanity-nextjs-site/pull/13) in [Evavic44/sanity-nextjs-site](https://github.com/Evavic44/sanity-nextjs-site)
-5. 🎉 Merged PR [#84](https://github.com/Evavic44/victoreke.com/pull/84) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+1. 🎉 Merged PR [#430](https://github.com/Evavic44/portfolio-ideas/pull/430) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. 🗣 Commented on [#85](https://github.com/Evavic44/victoreke.com/issues/85#issuecomment-2115284086) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+3. 🔒 Closed issue [#259](https://github.com/CommunityPro/support/issues/259) in [CommunityPro/support](https://github.com/CommunityPro/support)
+4. 🔒 Closed issue [#265](https://github.com/CommunityPro/support/issues/265) in [CommunityPro/support](https://github.com/CommunityPro/support)
+5. 🔒 Closed issue [#266](https://github.com/CommunityPro/support/issues/266) in [CommunityPro/support](https://github.com/CommunityPro/support)
 <!--END_SECTION:activity-->
 
 ## Support
