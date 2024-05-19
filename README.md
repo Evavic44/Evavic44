@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#430](https://github.com/Evavic44/portfolio-ideas/pull/430) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-2. 🗣 Commented on [#85](https://github.com/Evavic44/victoreke.com/issues/85#issuecomment-2115284086) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-3. 🔒 Closed issue [#259](https://github.com/CommunityPro/support/issues/259) in [CommunityPro/support](https://github.com/CommunityPro/support)
-4. 🔒 Closed issue [#265](https://github.com/CommunityPro/support/issues/265) in [CommunityPro/support](https://github.com/CommunityPro/support)
-5. 🔒 Closed issue [#266](https://github.com/CommunityPro/support/issues/266) in [CommunityPro/support](https://github.com/CommunityPro/support)
+1. 🗣 Commented on [#1](https://github.com/CommunityPro/portfolio-react/issues/1#issuecomment-2119215143) in [CommunityPro/portfolio-react](https://github.com/CommunityPro/portfolio-react)
+2. 🎉 Merged PR [#430](https://github.com/Evavic44/portfolio-ideas/pull/430) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+3. 🗣 Commented on [#85](https://github.com/Evavic44/victoreke.com/issues/85#issuecomment-2115284086) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+4. 🔒 Closed issue [#259](https://github.com/CommunityPro/support/issues/259) in [CommunityPro/support](https://github.com/CommunityPro/support)
+5. 🔒 Closed issue [#265](https://github.com/CommunityPro/support/issues/265) in [CommunityPro/support](https://github.com/CommunityPro/support)
 <!--END_SECTION:activity-->
 
 ## Support
