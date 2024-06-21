@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#89](https://github.com/Evavic44/victoreke.com/issues/89#issuecomment-2171972826) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-2. 🔓 Reopened issue [#89](https://github.com/Evavic44/victoreke.com/issues/89) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-3. 🔒 Closed issue [#89](https://github.com/Evavic44/victoreke.com/issues/89) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-4. 🔒 Closed issue [#87](https://github.com/Evavic44/victoreke.com/issues/87) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-5. 🗣 Commented on [#450](https://github.com/Evavic44/portfolio-ideas/pull/450#issuecomment-2168167312) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. 🗣 Commented on [#90](https://github.com/Evavic44/victoreke.com/issues/90#issuecomment-2183472960) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+2. 🎉 Merged PR [#91](https://github.com/Evavic44/victoreke.com/pull/91) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+3. 🗣 Commented on [#89](https://github.com/Evavic44/victoreke.com/issues/89#issuecomment-2171972826) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+4. 🔓 Reopened issue [#89](https://github.com/Evavic44/victoreke.com/issues/89) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+5. 🔒 Closed issue [#89](https://github.com/Evavic44/victoreke.com/issues/89) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
 <!--END_SECTION:activity-->
 
 ## Support
