@@ -41,10 +41,10 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 ## Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a GitHub Repository from your Terminal](https://eke.hashnode.dev/create-github-repository-from-your-terminal)
 - [How a Bug got me an Upvote on Stackoverflow](https://eke.hashnode.dev/how-a-bug-got-me-an-upvote-on-stackoverflow)
 - [Reflecting on my 2022 Developer Journey](https://eke.hashnode.dev/reflecting-on-my-2022-developer-journey)
 - [How my open source project got 1000 stars on GitHub in 4 months](https://eke.hashnode.dev/how-my-open-source-project-got-1000-stars-on-github-in-4-months)
-- [How open source can boost your career as a developer?](https://eke.hashnode.dev/how-open-source-can-boost-your-career-as-a-developer)
 <!-- BLOG-POST-LIST:END -->
 
 ## Recent GitHub Activity
