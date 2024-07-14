@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#64](https://github.com/Evavic44/victoreke.com/issues/64#issuecomment-2227471498) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-2. 🚀 Published release [v1.5](https://github.com/Evavic44/victoreke.com/releases/tag/v1.5) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-3. 🔒 Closed issue [#88](https://github.com/Evavic44/victoreke.com/issues/88) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-4. 🎉 Merged PR [#94](https://github.com/Evavic44/victoreke.com/pull/94) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-5. 💪 Opened PR [#94](https://github.com/Evavic44/victoreke.com/pull/94) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+1. 🎉 Merged PR [#129](https://github.com/CommunityPro/Practice-Contribution/pull/129) in [CommunityPro/Practice-Contribution](https://github.com/CommunityPro/Practice-Contribution)
+2. 🗣 Commented on [#64](https://github.com/Evavic44/victoreke.com/issues/64#issuecomment-2227471498) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+3. 🚀 Published release [v1.5](https://github.com/Evavic44/victoreke.com/releases/tag/v1.5) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+4. 🔒 Closed issue [#88](https://github.com/Evavic44/victoreke.com/issues/88) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+5. 🎉 Merged PR [#94](https://github.com/Evavic44/victoreke.com/pull/94) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
 <!--END_SECTION:activity-->
 
 ## Support
