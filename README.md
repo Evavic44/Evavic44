@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#462](https://github.com/Evavic44/portfolio-ideas/pull/462) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-2. ❗ Opened issue [#95](https://github.com/Evavic44/victoreke.com/issues/95) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
-3. 🔒 Closed issue [#25](https://github.com/Evavic44/currencee/issues/25) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
-4. ❌ Closed PR [#27](https://github.com/Evavic44/currencee/pull/27) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
-5. ❌ Closed PR [#28](https://github.com/Evavic44/currencee/pull/28) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
+1. ❗ Opened issue [#29](https://github.com/Evavic44/currencee/issues/29) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
+2. 🎉 Merged PR [#462](https://github.com/Evavic44/portfolio-ideas/pull/462) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+3. ❗ Opened issue [#95](https://github.com/Evavic44/victoreke.com/issues/95) in [Evavic44/victoreke.com](https://github.com/Evavic44/victoreke.com)
+4. 🔒 Closed issue [#25](https://github.com/Evavic44/currencee/issues/25) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
+5. ❌ Closed PR [#27](https://github.com/Evavic44/currencee/pull/27) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
 <!--END_SECTION:activity-->
 
 ## Support
