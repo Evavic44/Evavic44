@@ -51,11 +51,11 @@ As a huge fan of open source, all my personal projects live here on GitHub and [
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#32](https://github.com/Evavic44/currencee/issues/32) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
-2. 🎉 Merged PR [#33](https://github.com/Evavic44/currencee/pull/33) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
-3. 💪 Opened PR [#33](https://github.com/Evavic44/currencee/pull/33) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
-4. ❗ Opened issue [#32](https://github.com/Evavic44/currencee/issues/32) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
-5. ❗ Opened issue [#31](https://github.com/Evavic44/currencee/issues/31) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
+1. 🎉 Merged PR [#34](https://github.com/Evavic44/currencee/pull/34) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
+2. 💪 Opened PR [#34](https://github.com/Evavic44/currencee/pull/34) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
+3. 🔒 Closed issue [#32](https://github.com/Evavic44/currencee/issues/32) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
+4. 🎉 Merged PR [#33](https://github.com/Evavic44/currencee/pull/33) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
+5. 💪 Opened PR [#33](https://github.com/Evavic44/currencee/pull/33) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
 <!--END_SECTION:activity-->
 
 ## Support
