@@ -1,72 +1,15 @@
-![profile views counter][counter]
-![Victor Eke's GitHub banner image][banner-image]
+An experienced software developer specialzing in frontend development and open-source, passionate about learning and building open-source software.
+In my spare time, I enjoy writing technical articles and developing personal projects. You can find some of my latest posts on my [personal blog][blog], and [freeCodeCamp][freecodecamp-site]
 
-## About Me
+Over the years, I’ve worked with a variety of tools and languages, including
+**HTML**, **CSS**, **JavaScript**, **Python**, **TypeScript**, **React.js**, **Redux/Zustand**, **Next.js**, **Java**
 
-I'm Victor Eke, an experienced software developer specialzing in frontend development and open-source passionate about learning and building open-source software that is beneficial to developers and the world at large.
-
-In my spare time, I love writing technical articles and building projects. You can find some of my latest posts on [freeCodeCamp][freecodecamp-site], my [personal blog][blog], and [hashnode][hashnode-site].
-
-Want to collaborate on a project together, feel free to connect with me and let's dive into the world of code to create wonders that would make even the Matrix jealous.
-
-## Open Source
-
-- Building [communitypro][community-pro], an awesome community of over 200+ developers on GitHub
-- Contributing to [vitejs][vite] docs.
-- Maintaining [Portfolio Ideas][portfolio-ideas]
-
-If you have any jobs or freelance contracts, kindly send me an [email][email]
-
-## Featured Projects
-
-As a huge fan of open source, all my personal projects live here on GitHub and [Codepen][codepen]. My two most active personal projects includes:
-
-<table>
-<tr>
-<td align="center">
-  <a href="https://github.com/evavic44/portfolio-ideas">
-    <img src="images/portfolio-ideas.png"> <br/>
-    <sub>Portfolio Ideas</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/evavic44/victoreke.com">
-    <img src="images/victoreke.com.jpg"> <br/>
-    <sub>My Personal Site</sub>
-  </a>
-</td>
-</tr>
-</table>
-
-## Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Create a GitHub Repository from your Terminal](https://eke.hashnode.dev/create-github-repository-from-your-terminal)
-- [How a Bug got me an Upvote on Stackoverflow](https://eke.hashnode.dev/how-a-bug-got-me-an-upvote-on-stackoverflow)
-- [Reflecting on my 2022 Developer Journey](https://eke.hashnode.dev/reflecting-on-my-2022-developer-journey)
-- [How my open source project got 1000 stars on GitHub in 4 months](https://eke.hashnode.dev/how-my-open-source-project-got-1000-stars-on-github-in-4-months)
-<!-- BLOG-POST-LIST:END -->
-
-## Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-
-1. 🔒 Closed issue [#31](https://github.com/Evavic44/currencee/issues/31) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
-2. 🔒 Closed issue [#30](https://github.com/Evavic44/currencee/issues/30) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
-3. 🔒 Closed issue [#29](https://github.com/Evavic44/currencee/issues/29) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
-4. 🎉 Merged PR [#35](https://github.com/Evavic44/currencee/pull/35) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
-5. 💪 Opened PR [#35](https://github.com/Evavic44/currencee/pull/35) in [Evavic44/currencee](https://github.com/Evavic44/currencee)
-<!--END_SECTION:activity-->
-
-## Support
-
-If you love what I do and would like to support me, consider buying me a coffee. 😊 <br>
-
-<a href="https://www.buymeacoffee.com/victoreke"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="170" /></a>
+Feeling generous? Consider [buying a coffee][buymeacoffee] to support me ✨.
 
 <!-- Refrence Links -->
 
 [counter]: https://komarev.com/ghpvc/?username=evavic44&style=flat-square&color=6cd63e
+[buymeacoffee]: https://buymeacoffee.com/victoreke
 [banner-image]: https://user-images.githubusercontent.com/62628408/201165752-abcdd7c0-8447-415e-80f2-315d3cb04e84.png
 [freecodecamp-site]: https://freecodecamp.org/news/author/victoreke/
 [hashnode-site]: https://eke.hashnode.dev
