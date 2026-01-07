@@ -1,8 +1,12 @@
-An experienced software developer specialzing in frontend development and open-source, passionate about learning and building open-source software.
-In my spare time, I enjoy writing technical articles and developing personal projects. You can find some of my latest posts on my [personal blog][blog], and [freeCodeCamp][freecodecamp-site]
+Experienced, Frontend-focused Full Stack Developer dedicated to building accessible, pixel-perfect, and performant web applications. 
+With a strong background in the MERN ecosystem, I bridge the gap between complex backend logic and seamless user experiences. 
 
-Over the years, I’ve worked with a variety of tools and languages, including
-**JavaScript**, **Java**, **Python**, **TypeScript**, **HTML**, **CSS**, **React.js**, **Redux/Zustand**, **Next.js**
+Beyond code, I am an active Open Source contributor, GitHub community maintainer and technical writer, simplifying complex topics for the developer community on my [personal blog][blog] and [freeCodeCamp][freecodecamp-site]
+
+Technical Arsenal:
+- Core: TypeScript, JavaScript (ES6+), Java, Python
+- Frontend: React.js, Next.js, Redux/Zustand, Context API, HTML5/CSS3, SASS, TailwindCSS
+- Backend: Node.js, Express, MongoDB, Sanity CMS
 
 <!-- Refrence Links -->
 [counter]: https://komarev.com/ghpvc/?username=evavic44&style=flat-square&color=6cd63e
